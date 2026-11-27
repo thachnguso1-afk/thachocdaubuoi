@@ -1,0 +1,2114 @@
+[
+  {
+    "orig_id": 1,
+    "topic": "cellbio",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Tế bào",
+    "q": "Bơm ion $Na^+/K^+$-ATPase trên màng sinh chất của tế bào động vật hoạt động theo nguyên tắc nào trong mỗi chu kỳ thủy phân 1 phân tử ATP?",
+    "opts": [
+      "Bơm $2\\text{ }Na^+$ ra ngoài và $3\\text{ }K^+$ vào trong tế bào.",
+      "Bơm $3\\text{ }Na^+$ ra ngoài và $2\\text{ }K^+$ vào trong tế bào.",
+      "Bơm $3\\text{ }Na^+$ vào trong và $2\\text{ }K^+$ ra ngoài tế bào.",
+      "Khuếch tán thụ động $3\\text{ }Na^+$ và $2\\text{ }K^+$ cùng chiều gradient nồng độ."
+    ],
+    "ans": 1,
+    "exp": "Bơm $Na^+/K^+$-ATPase tiêu tốn 1 ATP để đẩy $3\\text{ }Na^+$ ra khỏi tế bào và đưa $2\\text{ }K^+$ vào trong tế bào, duy trì điện thế nghỉ."
+  },
+  {
+    "orig_id": 2,
+    "topic": "cellbio",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Tế bào",
+    "q": "Phân tử nào sau đây có thể khuếch tán trực tiếp qua lớp kép phospholipid của màng sinh chất nhanh nhất mà không cần kênh protein?",
+    "opts": [
+      "Ion $Na^+$ và $K^+$.",
+      "Phân tử Glucose ($C_6H_{12}O_6$).",
+      "Khí $O_2, CO_2$ và hormone Testosterone.",
+      "Hormone Insulin."
+    ],
+    "ans": 2,
+    "exp": "Các chất khí không phân cực ($O_2, CO_2$) và phân tử steroid kị nước (Testosterone) đi qua lớp kép phospholipid trực tiếp."
+  },
+  {
+    "orig_id": 3,
+    "topic": "cellbio",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Tế bào",
+    "q": "Bào quan nào sau đây có mặt ở tế bào thực vật bậc cao nhưng KHÔNG có ở tế bào động vật?",
+    "opts": [
+      "Ti thể và Peroxisome.",
+      "Lục lạp và không bào trung tâm lớn.",
+      "Bộ máy Golgi và lưới nội chất.",
+      "Ribosome và màng sinh chất."
+    ],
+    "ans": 1,
+    "exp": "Lục lạp và không bào trung tâm lớn là đặc trưng của tế bào thực vật."
+  },
+  {
+    "orig_id": 4,
+    "topic": "cellbio",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Hóa sinh",
+    "q": "Liên kết hóa học chủ yếu giúp duy trì cấu trúc bậc hai ($\\alpha$-helix và $\\beta$-pleated sheet) của phân tử protein là:",
+    "opts": [
+      "Liên kết cộng hóa trị disulfide ($-S-S-$).",
+      "Liên kết Hydrogen giữa các nhóm $-CO-$ và $-NH-$ của khung polypeptide.",
+      "Liên kết kị nước giữa các gốc R.",
+      "Liên kết phosphodiester."
+    ],
+    "ans": 1,
+    "exp": "Cấu trúc bậc 2 của protein được giữ vững nhờ liên kết Hydrogen giữa nguyên tử O của nhóm $-C=O$ và nguyên tử H của nhóm $-N-H$ trên khung polypeptide."
+  },
+  {
+    "orig_id": 5,
+    "topic": "cellbio",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Hô hấp TB",
+    "q": "Trong quá trình hô hấp hiếu khí ở tế bào nhân thực, giai đoạn Đường phân (Glycolysis) diễn ra ở đâu và tạo ra bao nhiêu ATP thực tế (net ATP) từ 1 phân tử Glucose?",
+    "opts": [
+      "Chất nền ti thể; tạo $2\\text{ ATP}$.",
+      "Bào tương (tế bào chất); tạo $2\\text{ ATP}$ (thu được $4\\text{ ATP}$, tiêu tốn $2\\text{ ATP}$ hoạt hóa).",
+      "Màng trong ti thể; tạo $32\\text{ ATP}$.",
+      "Bào tương; tạo $4\\text{ ATP}$ thực tế."
+    ],
+    "ans": 1,
+    "exp": "Đường phân diễn ra ở bào tương, tiêu tốn $2\\text{ ATP}$ đầu tư và thu về $4\\text{ ATP}$, lãi ròng $2\\text{ ATP}$ và $2\\text{ NADH}$."
+  },
+  {
+    "orig_id": 6,
+    "topic": "cellbio",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Thẩm thấu",
+    "q": "Khi ngâm tế bào hồng cầu người và tế bào biểu bì hành tím vào nước cất tinh khiết (môi trường nhược trương), hiện tượng gì xảy ra?",
+    "opts": [
+      "Cả hai tế bào đều bị vỡ tan.",
+      "Hồng cầu trương nước và vỡ (tan máu), còn tế bào hành tím trương nước nhưng không vỡ nhờ có thành cellulose.",
+      "Cả hai tế bào đều co nguyên sinh.",
+      "Hồng cầu co lại, tế bào hành tím vỡ ra."
+    ],
+    "ans": 1,
+    "exp": "Tế bào hồng cầu không có thành tế bào nên hút nước và vỡ; tế bào thực vật có thành cellulose cứng chắc tạo áp suất trương ($\\Psi_p$) ngăn nước tiếp tục đi vào."
+  },
+  {
+    "orig_id": 7,
+    "topic": "cellbio",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Vi sinh vật",
+    "q": "Thành tế bào của vi khuẩn (Eubacteria) được cấu tạo chủ yếu từ hợp chất hóa học nào sau đây (là đích tác động của kháng sinh Penicillin và enzyme Lysozyme)?",
+    "opts": [
+      "Cellulose.",
+      "Chitin.",
+      "Peptidoglycan (Murein).",
+      "Cholesterol."
+    ],
+    "ans": 2,
+    "exp": "Thành tế bào vi khuẩn cấu tạo từ Peptidoglycan. Penicillin ức chế enzyme tạo cầu nối peptide của Peptidoglycan, còn Lysozyme cắt liên kết glycoside giữa các đường NAG - NAM."
+  },
+  {
+    "orig_id": 8,
+    "topic": "cellbio",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Động học Enzyme",
+    "q": "Cho 3 enzyme $E_1, E_2, E_3$ cùng xúc tác cho cơ chất $S$ với hằng số Michaelis ($K_m$) lần lượt là $0.02\\text{ mM}$, $0.5\\text{ mM}$ và $2.0\\text{ mM}$. Phát biểu nào đúng?",
+    "opts": [
+      "Enzyme $E_3$ có ái lực với cơ chất $S$ cao nhất.",
+      "Enzyme $E_1$ có ái lực với cơ chất $S$ cao nhất và đạt $\\frac{1}{2}V_{\\max}$ ở nồng độ cơ chất thấp nhất.",
+      "Thêm chất ức chế cạnh tranh vào $E_1$ làm $K_{m1}$ giảm.",
+      "$K_m$ tỉ lệ thuận với nồng độ enzyme."
+    ],
+    "ans": 1,
+    "exp": "$K_m$ càng nhỏ thì ái lực của enzyme với cơ chất càng cao $\\Rightarrow E_1$ ($0.02\\text{ mM}$) có ái lực mạnh nhất."
+  },
+  {
+    "orig_id": 9,
+    "topic": "cellbio",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Động học Enzyme",
+    "q": "Khi bổ sung một chất ức chế X vào phản ứng enzyme, người ta thấy $V_{\\max}$ giảm đi một nửa nhưng hằng số $K_m$ không thay đổi. Chất X thuộc loại nào?",
+    "opts": [
+      "Chất ức chế cạnh tranh.",
+      "Chất ức chế không cạnh tranh.",
+      "Chất hoạt hóa dị lập thể.",
+      "Cơ chất tương đồng."
+    ],
+    "ans": 1,
+    "exp": "Chất ức chế không cạnh tranh gắn vào vùng dị lập thể nên không ảnh hưởng đến việc gắn cơ chất ($K_m$ không đổi) nhưng làm giảm lượng enzyme hoạt động ($V_{\\max}$ giảm)."
+  },
+  {
+    "orig_id": 10,
+    "topic": "cellbio",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Truyền tin TB",
+    "q": "Trong con đường truyền tin của hormone Adrenaline (Epinephrine) tại tế bào gan qua thụ thể bắt cặp G-protein (GPCR), phân tử nào đóng vai trò là chất truyền tin thứ hai?",
+    "opts": [
+      "Adenylyl cyclase.",
+      "AMP vòng (cAMP).",
+      "Protein kinase A (PKA).",
+      "Thụ thể Tyrosine kinase (RTK)."
+    ],
+    "ans": 1,
+    "exp": "Adrenaline gắn vào GPCR $\\rightarrow$ hoạt hóa G-protein $\\rightarrow$ hoạt hóa enzyme Adenylyl cyclase biến đổi ATP thành cAMP (chất truyền tin thứ hai)."
+  },
+  {
+    "orig_id": 11,
+    "topic": "cellbio",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Bào quan",
+    "q": "Đánh dấu phóng xạ amino acid Leucine ($^3\\text{H}$-Leucine) trong môi trường nuôi cấy tế bào tuyến tụy đang tiết hormone Insulin. Trình tự xuất hiện dấu phóng xạ trong các cấu trúc nội bào là:",
+    "opts": [
+      "Lưới nội chất trơn $\\rightarrow$ Bộ máy Golgi $\\rightarrow$ Lysosome $\\rightarrow$ Màng sinh chất.",
+      "Ribosome trên lưới nội chất hạt $\\rightarrow$ Túi tiết $\\rightarrow$ Bộ máy Golgi $\\rightarrow$ Túi tiết xuất bào qua màng sinh chất.",
+      "Ribosome tự do $\\rightarrow$ Nhân $\\rightarrow$ Ti thể $\\rightarrow$ Màng sinh chất.",
+      "Bộ máy Golgi $\\rightarrow$ Lưới nội chất hạt $\\rightarrow$ Màng sinh chất."
+    ],
+    "ans": 1,
+    "exp": "Insulin là protein tiết ngoại bào nên được tổng hợp tại Ribosome gắn trên lưới nội chất hạt (RER) $\\rightarrow$ túi vận chuyển sang Bộ máy Golgi chế biến $\\rightarrow$ túi tiết xuất bào."
+  },
+  {
+    "orig_id": 12,
+    "topic": "cellbio",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Bộ khung xương TB",
+    "q": "Thuốc Colchicine và các thuốc điều trị ung thư như Vinblastine ngăn cản sự trùng hợp của cấu trúc nào dẫn đến không hình thành được thoi phân bào?",
+    "opts": [
+      "Vi sợi Actin.",
+      "Vi ống (Microtubules - cấu tạo từ protein Tubulin).",
+      "Sợi trung gian (Intermediate filaments).",
+      "Lưới nội chất trơn."
+    ],
+    "ans": 1,
+    "exp": "Thoi phân bào được cấu tạo từ các vi ống (tubulin). Colchicine/Vinblastine ngăn trùng hợp vi ống nên khóa phân bào ở kỳ giữa."
+  },
+  {
+    "orig_id": 13,
+    "topic": "cellbio",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Peroxisome",
+    "q": "Bào quan Peroxisome ở tế bào gan và hạt cây có dầu chứa enzyme đặc trưng nào giúp phân giải độc tố Hydrogen peroxide ($H_2O_2$) thành nước và $O_2$?",
+    "opts": [
+      "Hydrolase acid.",
+      "Catalase.",
+      "Pepsinogen.",
+      "RuBisCO."
+    ],
+    "ans": 1,
+    "exp": "Peroxisome chứa enzyme Catalase phân giải nhanh $2H_2O_2 \\rightarrow 2H_2O + O_2$ để bảo vệ tế bào khỏi gốc tự do."
+  },
+  {
+    "orig_id": 14,
+    "topic": "cellbio",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Lên men vs Hô hấp",
+    "q": "Khi tế bào cơ xương người hoạt động tối đa trong điều kiện thiếu $O_2$, Pyruvate được chuyển hóa thành Lactate nhờ enzyme Lactate dehydrogenase. Mục đích sinh học quan trọng nhất của bước chuyển hóa Pyruvate thành Lactate là gì?",
+    "opts": [
+      "Để trực tiếp tạo thêm $2\\text{ ATP}$ ở bước này.",
+      "Để tái sinh coenzyme $NAD^+$ từ $NADH$, giúp giai đoạn Đường phân có thể tiếp tục diễn ra tạo $2\\text{ ATP}$.",
+      "Để giải phóng khí $CO_2$ làm tăng pH máu.",
+      "Để dự trữ năng lượng lâu dài trong cơ."
+    ],
+    "ans": 1,
+    "exp": "Quá trình khử Pyruvate thành Lactate không tạo ra ATP, nhưng giúp oxy hóa $NADH \\rightarrow NAD^+$ để cung cấp nguyên liệu $NAD^+$ duy trì phản ứng Đường phân."
+  },
+  {
+    "orig_id": 15,
+    "topic": "cellbio",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Hô hấp Ti thể - Đề HSG Tỉnh",
+    "q": "Một chất độc làm thủng màng trong ti thể khiến ion $H^+$ đi qua tự do (như chất 2,4-DNP). Hiện tượng nào sau đây sẽ xảy ra ở tế bào bị nhiễm chất này?",
+    "opts": [
+      "Ngừng tiêu thụ $O_2$, ngừng tổng hợp ATP và nhiệt độ cơ thể giảm.",
+      "Tiêu thụ $O_2$ tăng vọt, phân giải Glucose tăng mạnh, tổng hợp ATP giảm nghiêm trọng và thân nhiệt tăng cao.",
+      "Cả tốc độ tiêu thụ $O_2$ và tốc độ tổng hợp ATP đều tăng gấp đôi.",
+      "Chuỗi truyền điện tử bị khóa tại phức hợp IV."
+    ],
+    "ans": 1,
+    "exp": "2,4-DNP là chất phá ghép làm triệt tiêu gradient $H^+$ qua màng trong ti thể $\\rightarrow$ ngừng tạo ATP, chuỗi truyền $e^-$ chạy tối đa làm tiêu thụ $O_2$ và tỏa nhiệt tăng vọt."
+  },
+  {
+    "orig_id": 16,
+    "topic": "cellbio",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Hô hấp Ti thể - Đề HSG Tỉnh",
+    "q": "Nếu ti thể bị nhiễm độc chất Rotenone (khóa phức hợp I của chuỗi truyền điện tử), việc bổ sung chất nào sau đây vẫn giúp ti thể tiếp tục tổng hợp được ATP?",
+    "opts": [
+      "Pyruvate.",
+      "Malate.",
+      "Succinate (hoặc $FADH_2$).",
+      "Cyanide ($CN^-$)."
+    ],
+    "ans": 2,
+    "exp": "Succinate đi vào phức hợp II (tạo $FADH_2$) chuyển $e^-$ qua Ubiquinone tới phức hợp III và IV, bỏ qua phức hợp I đang bị Rotenone khóa."
+  },
+  {
+    "orig_id": 17,
+    "topic": "cellbio",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Độc tố Dịch tả - Đề HSG Tỉnh",
+    "q": "Độc tố vi khuẩn tả (Cholera toxin) làm biến đổi hóa học tiểu phần $\\alpha$ của G-protein ($G_s$) ở tế bào biểu mô ruột non khiến nó mất khả năng thủy phân GTP thành GDP. Hậu quả trực tiếp là gì?",
+    "opts": [
+      "Enzyme Adenylyl cyclase bị bất hoạt hoàn toàn, nồng độ cAMP bằng 0.",
+      "G-protein luôn ở trạng thái hoạt hóa liên tục $\\rightarrow$ cAMP tăng vọt $\\rightarrow$ mở kênh $Cl^-$ (CFTR) bơm ồ ạt $Cl^-, Na^+$ và nước vào lòng ruột gây tiêu chảy cấp.",
+      "Kênh $Na^+/K^+$ ngừng hoạt động làm tế bào ruột trương vỡ.",
+      "Tăng hấp thu nước từ lòng ruột vào máu."
+    ],
+    "ans": 1,
+    "exp": "Khi $G_s$ không thủy phân được GTP, nó duy trì trạng thái hoạt hóa liên tục $\\rightarrow$ kích thích Adenylyl cyclase sản xuất cAMP không ngừng $\\rightarrow$ PKA mở kênh CFTR tiết $Cl^-$ và kéo theo $Na^+, H_2O$ ra lòng ruột."
+  },
+  {
+    "orig_id": 18,
+    "topic": "cellbio",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Hóa thẩm Lục lạp vs Ti thể - Đề HSG Tỉnh",
+    "q": "Khi chiếu sáng lục lạp nguyên vẹn, sự thay đổi độ pH giữa xoang Thylakoid và chất nền Stroma diễn ra như thế nào để tổng hợp ATP?",
+    "opts": [
+      "$H^+$ được bơm từ xoang Thylakoid ra Stroma làm Stroma có $pH \\approx 5$, Thylakoid có $pH \\approx 8$.",
+      "$H^+$ được bơm vào xoang Thylakoid làm pH xoang Thylakoid giảm thấp ($\\approx 5$), còn pH chất nền Stroma tăng lên ($\\approx 8$).",
+      "Độ pH ở hai bên màng Thylakoid luôn bằng nhau ($pH = 7$).",
+      "ATP được tổng hợp bên trong lòng xoang Thylakoid."
+    ],
+    "ans": 1,
+    "exp": "Trong pha sáng, $H^+$ tập trung cao ở xoang Thylakoid ($pH \\approx 5$) và thấp ở Stroma ($pH \\approx 8$, nơi hoạt hóa enzyme RuBisCO). $H^+$ khuếch tán từ xoang Thylakoid ra Stroma qua $CF_0CF_1$-ATP synthase để tổng hợp ATP tại Stroma."
+  },
+  {
+    "orig_id": 19,
+    "topic": "cellbio",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Apoptosis - Đề HSG Tỉnh",
+    "q": "Trong con đường chết tế bào theo chương trình (Apoptosis) nội sinh, sự kiện giải phóng protein nào từ xoang gian màng ti thể ra bào tương sẽ trực tiếp kích hoạt dòng thác enzyme Caspase (Caspase-9 $\\rightarrow$ Caspase-3)?",
+    "opts": [
+      "Ubiquinone (Coenzyme Q).",
+      "Cytochrome c.",
+      "ATP synthase.",
+      "Catalase."
+    ],
+    "ans": 1,
+    "exp": "Khi có tín hiệu Apoptosis nội sinh, protein Bax/Bak tạo lỗ trên màng ngoài ti thể giải phóng Cytochrome c ra bào tương, kết hợp với Apaf-1 tạo phức hợp Apoptosome hoạt hóa Caspase-9."
+  },
+  {
+    "orig_id": 20,
+    "topic": "cellbio",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Thí nghiệm Jagendorf - Đề HSG Tỉnh",
+    "q": "Thylakoid cô lập được ngâm trong dung dịch đệm $pH = 4$ trong tối cho đến khi cân bằng, sau đó chuyển nhanh sang dung dịch đệm $pH = 8$ có sẵn ADP và $P_i$ (vẫn đặt hoàn toàn trong tối). Kết quả thu được là gì?",
+    "opts": [
+      "Không có ATP nào được tạo ra vì không có ánh sáng.",
+      "ATP được tổng hợp mạnh mẽ trong tối nhờ chênh lệch $\\Delta pH$ nhân tạo ($H^+$ tràn từ lòng Thylakoid $pH=4$ ra môi trường $pH=8$).",
+      "Nước bị quang phân ly tạo $O_2$ trong tối.",
+      "$NADP^+$ bị khử thành NADPH."
+    ],
+    "ans": 1,
+    "exp": "Thí nghiệm kinh điển của André Jagendorf chứng minh thuyết Hóa thẩm: Chỉ cần có chênh lệch gradient $H^+$ qua màng ($pH_{\\text{trong}} = 4 < pH_{\\text{ngoài}} = 8$) là ATP synthase tổng hợp được ATP mà không cần ánh sáng."
+  },
+  {
+    "orig_id": 21,
+    "topic": "cellbio",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Điều hòa Đường phân PFK-1 - Đề HSG Tỉnh",
+    "q": "Enzyme Phosphofructokinase-1 (PFK-1) là điểm kiểm soát quan trọng nhất của quá trình Đường phân. Cặp phân tử nào sau đây đóng vai trò là chất ức chế dị lập thể và chất hoạt hóa dị lập thể đối với PFK-1?",
+    "opts": [
+      "Chất ức chế: AMP, ADP; Chất hoạt hóa: ATP, Citrate.",
+      "Chất ức chế: ATP (nồng độ cao) và Citrate; Chất hoạt hóa: AMP và ADP.",
+      "Chất ức chế: Glucose; Chất hoạt hóa: NADH.",
+      "Chất ức chế: Insulin; Chất hoạt hóa: Glucagon."
+    ],
+    "ans": 1,
+    "exp": "Khi tế bào dư thừa năng lượng (ATP và Citrate cao), chúng gắn vào vùng dị lập thể để ức chế PFK-1. Khi tế bào thiếu năng lượng (AMP và ADP tăng cao), chúng hoạt hóa mạnh PFK-1 để đẩy nhanh đường phân."
+  },
+  {
+    "orig_id": 22,
+    "topic": "cellbio",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Thí nghiệm FRAP Màng sinh chất - Đề HSG Tỉnh",
+    "q": "Trong kỹ thuật phục hồi huỳnh quang sau tẩy màu (FRAP) để nghiên cứu tính động của protein màng, nếu một loại protein màng sau khi bị tia laser tẩy màu mà vùng tẩy màu KHÔNG phục hồi lại độ phát sáng huỳnh quang theo thời gian thì nguyên nhân hợp lý nhất là gì?",
+    "opts": [
+      "Màng sinh chất ở vùng đó không có lớp kép phospholipid.",
+      "Protein đó đã được neo giữ cố định vào bộ khung xương tế bào (cytoskeleton) hoặc chất nền ngoại bào (ECM) nên không thể khuếch tán ngang.",
+      "Nhiệt độ thí nghiệm là $37^\\circ\\text{C}$ quá cao.",
+      "Protein đó có kích thước quá nhỏ."
+    ],
+    "ans": 1,
+    "exp": "Nếu protein màng tự do khuếch tán ngang, các protein gắn huỳnh quang xung quanh sẽ tràn vào vùng bị tẩy màu. Nếu vùng đó không phục hồi huỳnh quang, chứng tỏ protein đó bị neo chặt vào khung xương tế bào (như sợi actin/spectrin) hoặc ECM."
+  },
+  {
+    "orig_id": 23,
+    "topic": "molecular",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Phân tử",
+    "q": "Một phân tử DNA mạch kép có tổng số $3000$ nucleotide và có Adenine chiếm $20\\%$. Số liên kết Hydrogen của phân tử DNA này là:",
+    "opts": [
+      "$3600$.",
+      "$3900$.",
+      "$3000$.",
+      "$4200$."
+    ],
+    "ans": 1,
+    "exp": "$A = T = 600; G = C = 900 \\Rightarrow H = 2A + 3G = 3900$."
+  },
+  {
+    "orig_id": 24,
+    "topic": "molecular",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Phân tử",
+    "q": "Một gen ở vi khuẩn có $1800$ cặp nucleotide tiến hành phiên mã và dịch mã. Số amino acid trong phân tử protein hoàn chỉnh (sau khi cắt bỏ aa mở đầu) là:",
+    "opts": [
+      "$600$.",
+      "$599$.",
+      "$598$.",
+      "$298$."
+    ],
+    "ans": 2,
+    "exp": "Số bộ ba $= \\frac{1800}{3} = 600$. Số aa trong protein hoàn chỉnh $= 600 - 2 = 598$."
+  },
+  {
+    "orig_id": 25,
+    "topic": "molecular",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Nhân đôi DNA",
+    "q": "Trong quá trình nhân đôi DNA ở <i>E. coli</i>, enzyme nào có vai trò tháo xoắn và cắt đứt các liên kết Hydrogen giữa hai mạch đơn?",
+    "opts": [
+      "DNA polymerase III.",
+      "Helicase.",
+      "DNA ligase.",
+      "Primase (RNA polymerase)."
+    ],
+    "ans": 1,
+    "exp": "Enzyme Helicase sử dụng ATP để tháo xoắn và tách hai mạch đơn tại chạc chữ Y."
+  },
+  {
+    "orig_id": 26,
+    "topic": "molecular",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Mã di truyền",
+    "q": "Bộ ba mở đầu trên mRNA là $5^\\prime\\text{AUG}3^\\prime$. Vậy bộ ba đối mã (anticodon) tương ứng trên tRNA vận chuyển Methionine và bộ ba trên mạch khuôn của gen lần lượt là:",
+    "opts": [
+      "$3^\\prime\\text{UAC}5^\\prime$ và $3^\\prime\\text{TAC}5^\\prime$.",
+      "$5^\\prime\\text{UAC}3^\\prime$ và $5^\\prime\\text{TAC}3^\\prime$.",
+      "$3^\\prime\\text{AUG}5^\\prime$ và $3^\\prime\\text{ATG}5^\\prime$.",
+      "$3^\\prime\\text{UAG}5^\\prime$ và $3^\\prime\\text{ATC}5^\\prime$."
+    ],
+    "ans": 0,
+    "exp": "Bắt cặp ngược chiều: Codon $5^\\prime\\text{AUG}3^\\prime$ khớp với Anticodon $3^\\prime\\text{UAC}5^\\prime$ và được phiên mã từ bộ ba mạch gốc $3^\\prime\\text{TAC}5^\\prime$."
+  },
+  {
+    "orig_id": 27,
+    "topic": "molecular",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Operon Lac",
+    "q": "Trong mô hình Operon Lac ở vi khuẩn <i>E. coli</i>, khi môi trường có đường lactose, phân tử allolactose sẽ gắn vào cấu trúc nào để mở khóa quá trình phiên mã?",
+    "opts": [
+      "Vùng khởi động (Promoter - $P$).",
+      "Vùng vận hành (Operator - $O$).",
+      "Protein ức chế (làm biến đổi cấu hình khiến nó không gắn được vào $O$).",
+      "Gen điều hòa ($lacI$)."
+    ],
+    "ans": 2,
+    "exp": "Allolactose là chất cảm ứng gắn trực tiếp vào protein ức chế làm bất hoạt protein này."
+  },
+  {
+    "orig_id": 28,
+    "topic": "molecular",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Đột biến điểm",
+    "q": "Đột biến thay thế một cặp nucleotide $G-C$ bằng một cặp $A-T$ sẽ làm số liên kết Hydrogen của gen thay đổi như thế nào?",
+    "opts": [
+      "Tăng 1 liên kết Hydrogen.",
+      "Giảm 1 liên kết Hydrogen.",
+      "Giảm 3 liên kết Hydrogen.",
+      "Không thay đổi."
+    ],
+    "ans": 1,
+    "exp": "Cặp $G-C$ có 3 liên kết H, cặp $A-T$ có 2 liên kết H $\\Rightarrow$ thay $G-C$ bằng $A-T$ làm giảm 1 liên kết H."
+  },
+  {
+    "orig_id": 29,
+    "topic": "molecular",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Công nghệ Gen",
+    "q": "Trong kỹ thuật chuyển gen vào vi khuẩn <i>E. coli</i>, thể truyền (vector) phổ biến nhất là phân tử DNA nhỏ, dạng vòng, có khả năng tự nhân đôi độc lập với DNA vùng nhân của vi khuẩn, được gọi là:",
+    "opts": [
+      "Ribosome.",
+      "Plasmid.",
+      "Nucleosome.",
+      "Nhiễm sắc thể nhân tạo nấm men."
+    ],
+    "ans": 1,
+    "exp": "Plasmid là phân tử DNA mạch kép dạng vòng nhỏ nằm trong tế bào chất của vi khuẩn, được dùng làm vector chuyển gen."
+  },
+  {
+    "orig_id": 30,
+    "topic": "molecular",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Đột biến 5-BU",
+    "q": "Một gen có cặp $A-T$ bị tác động bởi 1 phân tử 5-BU ngay ở lần nhân đôi thứ nhất, sau đó chuyển sang môi trường bình thường không còn 5-BU và nhân đôi thêm 3 lần nữa (tổng 4 lần). Số gen đột biến $G-C$ hoàn chỉnh tạo ra là:",
+    "opts": [
+      "$1$ gen.",
+      "$3$ gen.",
+      "$4$ gen.",
+      "$7$ gen."
+    ],
+    "ans": 1,
+    "exp": "Với $k = 4$ lần nhân đôi: Số gen đột biến $G-C = 2^{4-2} - 1 = 3$ gen."
+  },
+  {
+    "orig_id": 31,
+    "topic": "molecular",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Đồng vị phóng xạ",
+    "q": "Có 3 phân tử DNA của <i>E. coli</i> chỉ chứa $^{15}\\text{N}$ được nuôi trong môi trường $^{14}\\text{N}$ nhân đôi 4 lần, sau đó chuyển sang môi trường $^{15}\\text{N}$ nhân đôi thêm 1 lần nữa. Số phân tử DNA chứa cả $^{15}\\text{N}$ và $^{14}\\text{N}$ ở cuối quá trình là:",
+    "opts": [
+      "$42$.",
+      "$90$.",
+      "$48$.",
+      "$96$."
+    ],
+    "ans": 1,
+    "exp": "Sau 4 lần nhân đôi ở $^{14}\\text{N}$ có $3 \\times 2^4 \\times 2 - 6 = 90$ mạch đơn $^{14}\\text{N}$. Khi nhân đôi 1 lần ở $^{15}\\text{N}$, 90 mạch này tạo đúng 90 phân tử DNA lai."
+  },
+  {
+    "orig_id": 32,
+    "topic": "molecular",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Phiên mã",
+    "q": "Một gen có chiều dài $5100\\text{ \\AA}$ và hiệu số giữa Adenine với loại không bổ sung bằng $10\\%$ tổng số nu. Trên mạch gốc của gen có $A_1 = 150$ và $G_1 = 300$. Khi gen phiên mã 1 lần, số ribonucleotide loại $rU$ và $rC$ môi trường cung cấp lần lượt là:",
+    "opts": [
+      "$rU = 150$ và $rC = 300$.",
+      "$rU = 750$ và $rC = 300$.",
+      "$rU = 150$ và $rC = 600$.",
+      "$rU = 300$ và $rC = 150$."
+    ],
+    "ans": 0,
+    "exp": "Theo nguyên tắc bổ sung trong phiên mã: $rU_{\\text{mRNA}} = A_{\\text{gốc}} = A_1 = 150$; $rC_{\\text{mRNA}} = G_{\\text{gốc}} = G_1 = 300$."
+  },
+  {
+    "orig_id": 33,
+    "topic": "molecular",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Cắt nối Exon",
+    "q": "Một gen ở sinh vật nhân thực có 6 đoạn Exon (E1, E2, E3, E4, E5, E6) và 5 đoạn Intron. Quá trình cắt nối thay thế luôn giữ lại E1 ở đầu và E6 ở cuối, các Exon ở giữa có thể được giữ lại hoặc cắt bỏ (không đảo thứ tự). Số loại phân tử mRNA trưởng thành khác nhau tối đa tạo ra là:",
+    "opts": [
+      "$16$ loại.",
+      "$24$ loại.",
+      "$8$ loại.",
+      "$32$ loại."
+    ],
+    "ans": 0,
+    "exp": "Có $4$ đoạn Exon ở giữa (E2, E3, E4, E5), mỗi đoạn có 2 khả năng (giữ lại hoặc cắt bỏ) $\\Rightarrow$ Số loại mRNA trưởng thành $= 2^4 = 16$ loại."
+  },
+  {
+    "orig_id": 34,
+    "topic": "molecular",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Đột biến dịch khung",
+    "q": "Một phân tử mRNA nhân tạo có trình tự lặp lại liên tục $5^\\prime\\text{AUAUAUAUAUAU...}3^\\prime$. Trong hệ thống dịch mã nhân tạo không cần bộ ba mở đầu, chuỗi polypeptide tạo thành sẽ có đặc điểm gì? Nếu chèn thêm 1 nu loại $G$ vào giữa mạch mRNA này thì sao?",
+    "opts": [
+      "Tạo chuỗi chỉ gồm 1 loại amino acid; chèn 1 nu $G$ làm dừng dịch mã ngay.",
+      "Tạo chuỗi gồm 2 loại amino acid xen kẽ ($\\text{Ile}-\\text{Tyr}-\\text{Ile}-\\text{Tyr}...$); chèn 1 nu $G$ làm thay đổi đúng 1 amino acid tại điểm chèn rồi tiếp tục lặp lại 2 loại aa đó.",
+      "Tạo chuỗi gồm 3 loại amino acid; chèn 1 nu $G$ làm thay đổi toàn bộ phía sau.",
+      "Không dịch mã được."
+    ],
+    "ans": 1,
+    "exp": "Trình tự đọc theo từng bộ 3: $\\text{AUA}-\\text{UAU}-\\text{AUA}-\\text{UAU}$ (2 loại aa xen kẽ). Nếu chèn 1 nu $G$, sau vị trí chèn khung đọc vẫn quay lại nhịp xen kẽ $\\text{UAU}-\\text{AUA}$!"
+  },
+  {
+    "orig_id": 35,
+    "topic": "molecular",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Chạc chữ Y",
+    "q": "Một phân tử DNA mạch kép ở sinh vật nhân thực có 10 đơn vị tái bản đang hoạt động đồng thời. Trên mỗi chạc chữ Y, mạch tổng hợp gián đoạn tạo ra trung bình 15 đoạn Okazaki. Tổng số đoạn mồi RNA đã được enzyme Primase tổng hợp trên toàn bộ phân tử DNA này là:",
+    "opts": [
+      "$160$ đoạn mồi.",
+      "$320$ đoạn mồi.",
+      "$310$ đoạn mồi.",
+      "$170$ đoạn mồi."
+    ],
+    "ans": 1,
+    "exp": "10 đơn vị tái bản có $10 \\times 2 = 20$ chạc chữ Y. Trên mỗi chạc chữ Y có 1 mạch liên tục (cần 1 mồi) và 1 mạch gián đoạn (cần 15 mồi) $= 16$ mồi/chạc $\\Rightarrow$ Tổng số đoạn mồi $= 20 \\times 16 = 320$ đoạn mồi."
+  },
+  {
+    "orig_id": 36,
+    "topic": "molecular",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Sinh tổng hợp cDNA",
+    "q": "Để sản xuất hormone Insulin người trong tế bào vi khuẩn <i>E. coli</i>, các nhà khoa học không lấy trực tiếp gen Insulin từ hệ gen trong nhân tế bào người mà phải tách chiết mRNA trưởng thành rồi dùng enzyme phiên mã ngược (Reverse Transcriptase) tạo cDNA. Lý do chính là gì?",
+    "opts": [
+      "Vì gen trong nhân tế bào người quá ngắn.",
+      "Vì gen của người phân mảnh (có các đoạn Intron), còn vi khuẩn <i>E. coli</i> không có bộ máy cắt bỏ Intron (Spliceosome) nên không thể xử lý tiền mRNA.",
+      "Vì mã di truyền của người và vi khuẩn hoàn toàn khác nhau.",
+      "Vì vi khuẩn chỉ phiên mã được từ cDNA."
+    ],
+    "ans": 1,
+    "exp": "Gen nhân thực chứa các đoạn Intron không mã hóa. Vi khuẩn nhân sơ thiếu bộ máy Spliceosome để cắt Intron, nên phải dùng cDNA (tạo từ mRNA trưởng thành đã cắt hết Intron)."
+  },
+  {
+    "orig_id": 37,
+    "topic": "molecular",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Kỹ thuật PCR - Đề HSG Tỉnh",
+    "q": "Từ 1 phân tử DNA mạch kép ban đầu, nhân bản đoạn gen mục tiêu bằng PCR qua 6 chu kỳ. Số phân tử DNA mạch kép có kích thước ở cả 2 mạch đúng bằng đoạn gen mục tiêu là:",
+    "opts": [
+      "$64$.",
+      "$52$.",
+      "$58$.",
+      "$32$."
+    ],
+    "ans": 1,
+    "exp": "Áp dụng công thức: $2^n - 2n = 2^6 - 2(6) = 64 - 12 = 52$ phân tử."
+  },
+  {
+    "orig_id": 38,
+    "topic": "molecular",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Operon Lac - Đề HSG Tỉnh",
+    "q": "Chủng <i>E. coli</i> lưỡng bội từng phần $I^+ P^- O^+ Z^+ Y^+ / F^\\prime I^- P^+ O^c Z^- Y^+$ nuôi trong môi trường KHÔNG có lactose sẽ tổng hợp được enzyme nào?",
+    "opts": [
+      "Chỉ tổng hợp được $\\beta$-galactosidase ($Z$).",
+      "Chỉ tổng hợp được permease ($Y$).",
+      "Tổng hợp cả $Z$ và $Y$.",
+      "Không tổng hợp enzyme nào."
+    ],
+    "ans": 1,
+    "exp": "NST chính bị hỏng $P^-$ nên không phiên mã. Plasmid $F^\\prime$ có đột biến $O^c$ (phiên mã cơ định không phụ thuộc lactose) và có $Y^+$ bình thường nên chỉ tổng hợp permease."
+  },
+  {
+    "orig_id": 39,
+    "topic": "molecular",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Epigenetics - Đề HSG Tỉnh",
+    "q": "Sự biến đổi hóa học nào sau đây trên cấu trúc Chromatin thường dẫn đến việc GIÃN XOẮN nhiễm sắc thể (tạo Euchromatin) và kích hoạt mạnh quá trình phiên mã?",
+    "opts": [
+      "Methyl hóa mạnh các đảo CpG tại vùng Promoter của DNA.",
+      "Acetyl hóa các gốc Lysine ở đuôi phân tử Histone nhờ enzyme Histone Acetyltransferase (HAT).",
+      "Khử Acetyl (Deacetylation) phân tử Histone nhờ enzyme HDAC.",
+      "Bất hoạt NST bằng RNA <i>Xist</i>."
+    ],
+    "ans": 1,
+    "exp": "Gắn nhóm Acetyl ($-COCH_3$) vào Lysine làm trung hòa điện tích dương của đuôi Histone, giảm lực hút tĩnh điện với khung xương âm điện của DNA, giúp NST giãn xoắn để RNA polymerase tiếp cận."
+  },
+  {
+    "orig_id": 40,
+    "topic": "molecular",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Bản đồ Enzyme Cắt giới hạn - Đề HSG Tỉnh",
+    "q": "Một phân tử DNA mạch thẳng dài $12\\text{ kb}$ được cắt hoàn toàn bằng enzyme <i>EcoRI</i> thu được 3 đoạn ($2\\text{ kb}, 4\\text{ kb}, 6\\text{ kb}$); nếu cắt bằng <i>HindIII</i> thu được 2 đoạn ($5\\text{ kb}, 7\\text{ kb}$); nếu cắt đồng thời bằng cả hai enzyme thu được 4 đoạn ($1\\text{ kb}, 2\\text{ kb}, 4\\text{ kb}, 5\\text{ kb}$). Số vị trí cắt của <i>EcoRI</i> và <i>HindIII</i> trên phân tử DNA này lần lượt là:",
+    "opts": [
+      "$3$ vị trí và $2$ vị trí.",
+      "$2$ vị trí và $1$ vị trí.",
+      "$2$ vị trí và $2$ vị trí.",
+      "$3$ vị trí và $1$ vị trí."
+    ],
+    "ans": 1,
+    "exp": "Đối với DNA mạch thẳng, cắt tạo $m$ đoạn thì có $(m-1)$ vị trí cắt. Vậy <i>EcoRI</i> tạo 3 đoạn $\\rightarrow$ có $2$ vị trí cắt; <i>HindIII</i> tạo 2 đoạn $\\rightarrow$ có $1$ vị trí cắt (nằm trong đoạn $6\\text{ kb}$ của <i>EcoRI</i>, chia đoạn $6\\text{ kb}$ thành $5\\text{ kb} + 1\\text{ kb}$)."
+  },
+  {
+    "orig_id": 41,
+    "topic": "molecular",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Operon Tryptophan - Đề HSG Tỉnh",
+    "q": "Trong cơ chế điều hòa phiên mã suy giảm (Attenuation) ở vùng dẫn đầu ($trpL$) gồm 4 đoạn trình tự (1, 2, 3, 4) của Operon Trp ở <i>E. coli</i>, khi môi trường DƯ THỪA Tryptophan thì hiện tượng gì xảy ra?",
+    "opts": [
+      "Ribosome dừng lại ở đoạn 1, giúp đoạn 2 bắt cặp với đoạn 3 để phiên mã tiếp tục.",
+      "Ribosome dịch mã nhanh qua đoạn 1 và che khuất đoạn 2, làm đoạn 3 bắt cặp với đoạn 4 tạo cấu trúc kẹp tóc kết thúc phiên mã sớm.",
+      "Tryptophan tách protein ức chế ra khỏi vùng Operator.",
+      "Phức hợp CAP-cAMP gắn vào vùng Operator."
+    ],
+    "ans": 1,
+    "exp": "Khi dư thừa Trp, tRNA$^{Trp}$ dồi dào giúp ribosome trượt nhanh qua 2 bộ ba Trp ở đoạn 1 và đè lên đoạn 2 $\\rightarrow$ đoạn 3 bắt cặp với đoạn 4 tạo kẹp tóc chấm dứt phiên mã ngay trước các gen cấu trúc."
+  },
+  {
+    "orig_id": 42,
+    "topic": "molecular",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Telomere & Telomerase - Đề HSG Tỉnh",
+    "q": "Tại sao ở các tế bào sinh dưỡng (soma) bình thường của người, đầu mút nhiễm sắc thể (Telomere) bị ngắn lại sau mỗi lần nhân đôi, trong khi tế bào mầm sinh dục và tế bào ung thư thì không?",
+    "opts": [
+      "Vì tế bào soma không có enzyme DNA ligase.",
+      "Vì sau khi cắt bỏ đoạn mồi RNA ở đầu $5^\\prime$ của mạch mới, DNA polymerase không có đầu $3^\\prime-\\text{OH}$ để lấp chỗ trống; còn tế bào mầm và tế bào ung thư có enzyme Telomerase (mang khuôn RNA nội tại) kéo dài đầu $3^\\prime$ của mạch khuôn.",
+      "Vì tế bào ung thư nhân đôi không cần đoạn mồi RNA.",
+      "Vì nhiễm sắc thể của tế bào ung thư có dạng mạch vòng."
+    ],
+    "ans": 1,
+    "exp": "DNA polymerase chỉ tổng hợp theo chiều $5^\\prime \\rightarrow 3^\\prime$ khi có đầu $3^\\prime-\\text{OH}$ tự do. Khi đoạn mồi RNA ngoài cùng ở đầu $5^\\prime$ bị cắt bỏ, chỗ trống không được lấp đầy. Enzyme Telomerase hoạt động mạnh ở tế bào mầm và ung thư giúp bù đắp đoạn Telomere bị mất."
+  },
+  {
+    "orig_id": 43,
+    "topic": "molecular",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "CRISPR-Cas9 & Giải trình tự Sanger - Đề HSG Tỉnh",
+    "q": "Trong phương pháp giải trình tự DNA của Sanger sử dụng dideoxynucleotide ($ddNTP$), tại sao sự gắn một phân tử $ddATP$ vào mạch DNA đang tổng hợp lại làm chuỗi phản ứng dừng lại ngay lập tức tại vị trí đó?",
+    "opts": [
+      "Vì $ddATP$ không có nhóm phosphate ở vị trí carbon $5^\\prime$.",
+      "Vì đường của $ddATP$ bị mất nhóm hydroxyl ($-OH$) ở cả vị trí carbon $2^\\prime$ và $3^\\prime$ (chỉ có $-H$ ở vị trí $3^\\prime$), nên không thể hình thành liên kết phosphodiester với nucleotide tiếp theo.",
+      "Vì $ddATP$ không thể bắt cặp bổ sung với Thymine ($T$) trên mạch khuôn.",
+      "Vì $ddATP$ làm biến tính enzyme DNA polymerase."
+    ],
+    "ans": 1,
+    "exp": "$ddNTP$ (2,3-dideoxynucleotide) thiếu nhóm $3^\\prime-\\text{OH}$ bắt buộc để tấn công ái nhân vào nhóm $5^\\prime$-phosphate của dNTP kế tiếp, nên quá trình kéo dài mạch dừng ngay lập tức."
+  },
+  {
+    "orig_id": 44,
+    "topic": "molecular",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Can thiệp RNA - miRNA/siRNA - Đề HSG Tỉnh",
+    "q": "Cơ chế điều hòa biểu hiện gen sau phiên mã bằng các phân tử RNA nhỏ (miRNA hoặc siRNA) kết hợp với phức hợp protein RISC ở tế bào nhân thực diễn ra như thế nào?",
+    "opts": [
+      "Bắt cặp bổ sung với đoạn mRNA đích để cắt đứt (phân hủy) mRNA đích hoặc cản trở ribosome dịch mã trên mRNA đó.",
+      "Gắn trực tiếp vào vùng Promoter của gen để kích thích RNA polymerase II.",
+      "Cắt bỏ các đoạn Intron ra khỏi tiền mRNA.",
+      "Vận chuyển các amino acid tới ribosome."
+    ],
+    "ans": 0,
+    "exp": "Phức hợp RISC mang mạch đơn siRNA/miRNA dò tìm phân tử mRNA có trình tự bổ sung: nếu bắt cặp hoàn toàn sẽ cắt đứt mRNA đích; nếu bắt cặp một phần sẽ chặn đứng quá trình dịch mã của ribosome."
+  },
+  {
+    "orig_id": 45,
+    "topic": "cellular",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Phân bào",
+    "q": "Một tế bào sinh dưỡng của người ($2n = 46$) đang ở kỳ sau của quá trình nguyên phân. Số nhiễm sắc thể đơn và số tâm động trong tế bào lúc này lần lượt là:",
+    "opts": [
+      "$46$ NST đơn và $46$ tâm động.",
+      "$92$ NST đơn và $92$ tâm động.",
+      "$92$ NST kép và $46$ tâm động.",
+      "$46$ NST kép và $92$ tâm động."
+    ],
+    "ans": 1,
+    "exp": "Ở kỳ sau nguyên phân, NST kép tách thành 2 NST đơn phân ly về 2 cực $\\Rightarrow 4n = 92$ NST đơn và $92$ tâm động."
+  },
+  {
+    "orig_id": 46,
+    "topic": "cellular",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Đột biến NST",
+    "q": "Một loài thực vật có $2n = 24$. Số lượng nhiễm sắc thể trong một tế bào sinh dưỡng của thể ba kép ($2n+1+1$) và số dạng thể ba kép tối đa của loài lần lượt là:",
+    "opts": [
+      "$26$ NST và $12$ dạng.",
+      "$26$ NST và $66$ dạng.",
+      "$25$ NST và $12$ dạng.",
+      "$36$ NST và $66$ dạng."
+    ],
+    "ans": 1,
+    "exp": "$2n+1+1 = 26$ NST. Có $n = 12$ cặp NST nên số dạng thể ba kép $= C^2_{12} = 66$ dạng."
+  },
+  {
+    "orig_id": 47,
+    "topic": "cellular",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Nguyên phân",
+    "q": "Có 5 tế bào sinh dưỡng của một loài ($2n = 20$) nguyên phân liên tiếp 3 lần. Tổng số tế bào con tạo thành và số nhiễm sắc thể môi trường nội bào đã cung cấp cho quá trình trên lần lượt là:",
+    "opts": [
+      "$40$ tế bào và $700$ NST.",
+      "$40$ tế bào và $800$ NST.",
+      "$15$ tế bào và $700$ NST.",
+      "$80$ tế bào và $700$ NST."
+    ],
+    "ans": 0,
+    "exp": "Số tế bào con $= 5 \\times 2^3 = 40$. Số NST môi trường cung cấp $= 5 \\times 20 \\times (2^3 - 1) = 700$ NST."
+  },
+  {
+    "orig_id": 48,
+    "topic": "cellular",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Giảm phân",
+    "q": "Ở một loài động vật ($2n = 16$), có 20 tế bào sinh trứng tiến hành giảm phân bình thường. Số trứng được tạo ra và số thể cực (thể định hướng) bị tiêu biến lần lượt là:",
+    "opts": [
+      "$20$ trứng và $60$ thể cực.",
+      "$80$ trứng và $0$ thể cực.",
+      "$20$ trứng và $20$ thể cực.",
+      "$60$ trứng và $20$ thể cực."
+    ],
+    "ans": 0,
+    "exp": "Mỗi tế bào sinh trứng giảm phân tạo 1 trứng và 3 thể cực $\\Rightarrow 20$ tế bào tạo $20$ trứng và $60$ thể cực."
+  },
+  {
+    "orig_id": 49,
+    "topic": "cellular",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Đột biến cấu trúc NST",
+    "q": "Dạng đột biến cấu trúc nhiễm sắc thể nào sau đây được ứng dụng để loại bỏ các gen không mong muốn hoặc xác định vị trí của gen trên nhiễm sắc thể (lập bản đồ mất đoạn), nhưng thường gây giảm sức sống cho thể đột biến?",
+    "opts": [
+      "Đảo đoạn NST.",
+      "Lặp đoạn NST.",
+      "Mất đoạn NST.",
+      "Chuyển đoạn trên cùng một NST."
+    ],
+    "ans": 2,
+    "exp": "Đột biến mất đoạn làm mất vật chất di truyền nên thường gây chết hoặc giảm sức sống, được dùng để định vị gen thông qua hiện tượng giả trội."
+  },
+  {
+    "orig_id": 50,
+    "topic": "cellular",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Hội chứng ở người",
+    "q": "Hội chứng nào ở người có bộ nhiễm sắc thể thuộc dạng thể một ($2n - 1 = 45$) ở cặp nhiễm sắc thể giới tính ($XO$)?",
+    "opts": [
+      "Hội chứng Down ($3$ NST số 21).",
+      "Hội chứng Klinefelter ($XXY$).",
+      "Hội chứng Turner ($XO$).",
+      "Hội chứng siêu nữ ($XXX$)."
+    ],
+    "ans": 2,
+    "exp": "Hội chứng Turner có bộ NST $44A + XO$ ($2n - 1 = 45$)."
+  },
+  {
+    "orig_id": 51,
+    "topic": "cellular",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Cấu trúc siêu hiển vi NST",
+    "q": "Đơn vị cấu trúc cơ bản của nhiễm sắc thể ở sinh vật nhân thực gồm một đoạn DNA dài khoảng $146$ cặp nucleotide quấn $1\\frac{3}{4}$ vòng quanh khối cầu gồm $8$ phân tử protein Histone được gọi là:",
+    "opts": [
+      "Sợi cơ bản ($10\\text{ nm}$).",
+      "Nucleosome.",
+      "Sợi nhiễm sắc ($30\\text{ nm}$).",
+      "Chromatid ($700\\text{ nm}$)."
+    ],
+    "ans": 1,
+    "exp": "Nucleosome là đơn vị cấu trúc cơ bản của NST nhân thực (lõi 8 phân tử Histone + 146 cặp nu quấn quanh)."
+  },
+  {
+    "orig_id": 52,
+    "topic": "cellular",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Giao tử TĐC",
+    "q": "Một loài có bộ NST $2n = 14$, mỗi cặp NST tương đồng đều dị hợp nhiều cặp gen. Trong giảm phân, có 2 cặp NST xảy ra TĐC tại 1 điểm và 1 cặp NST xảy ra TĐC tại 2 điểm không cùng lúc. Số loại giao tử tối đa tạo ra là:",
+    "opts": [
+      "$1536$ loại.",
+      "$2048$ loại.",
+      "$768$ loại.",
+      "$3072$ loại."
+    ],
+    "ans": 0,
+    "exp": "$n = 7$. Số loại giao tử $= 2^{7+2} \\times 3^1 = 512 \\times 3 = 1536$ loại."
+  },
+  {
+    "orig_id": 53,
+    "topic": "cellular",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Tế bào sinh tinh",
+    "q": "Có 4 tế bào sinh tinh của cơ thể có kiểu gen $AaBb\\frac{DE}{de}$ giảm phân bình thường, trong đó có 2 tế bào xảy ra trao đổi chéo giữa $D$ và $E$, còn 2 tế bào không có TĐC. Số loại tinh trùng tối đa tạo ra từ 4 tế bào này là:",
+    "opts": [
+      "$16$ loại.",
+      "$12$ loại.",
+      "$8$ loại.",
+      "$14$ loại."
+    ],
+    "ans": 1,
+    "exp": "2 tế bào có TĐC cho tối đa $2 \\times 4 = 8$ loại; 2 tế bào không TĐC cho tối đa $2 \\times 2 = 4$ loại $\\Rightarrow$ Tổng tối đa $= 8 + 4 = 12$ loại."
+  },
+  {
+    "orig_id": 54,
+    "topic": "cellular",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Song nhị bội",
+    "q": "Lai loài cải củ ($2n_A = 18$) với loài cải bắp ($2n_B = 18$) thu được con lai xa $F_1$ bất thụ. Đa bội hóa $F_1$ bằng Colchicine thu được thể song nhị bội hữu thụ. Một tế bào sinh dưỡng của thể song nhị bội này đang ở kỳ sau của nguyên phân có bao nhiêu nhiễm sắc thể đơn?",
+    "opts": [
+      "$36$ NST đơn.",
+      "$72$ NST đơn.",
+      "$18$ NST đơn.",
+      "$54$ NST đơn."
+    ],
+    "ans": 1,
+    "exp": "Thể song nhị bội có $2n_A + 2n_B = 36$ NST. Ở kỳ sau nguyên phân, số NST đơn tăng gấp đôi $= 36 \\times 2 = 72$ NST đơn."
+  },
+  {
+    "orig_id": 55,
+    "topic": "cellular",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Lệch bội 2n+1",
+    "q": "Ở cà độc dược, alen $A$ (hoa đỏ) trội hoàn toàn so với $a$ (hoa trắng). Cho cây thể ba $AAa$ tự thụ phấn. Biết cây thể ba giảm phân tạo giao tử $n$ và $n+1$ bình thường, nhưng hạt phấn $n+1$ không có khả năng thụ tinh (noãn $n+1$ thụ tinh bình thường). Tỉ lệ kiểu hình ở đời con $F_1$ là:",
+    "opts": [
+      "$35$ đỏ : $1$ trắng.",
+      "$17$ đỏ : $1$ trắng.",
+      "$11$ đỏ : $1$ trắng.",
+      "$8$ đỏ : $1$ trắng."
+    ],
+    "ans": 1,
+    "exp": "Noãn của $AAa$ có lặn $a = \\frac{1}{6}$. Hạt phấn của $AAa$ chỉ có giao tử đơn bội $(\\frac{2}{3}A : \\frac{1}{3}a)$ thụ tinh được $\\Rightarrow aa = \\frac{1}{6} \\times \\frac{1}{3} = \\frac{1}{18} \\Rightarrow 17$ đỏ : $1$ trắng."
+  },
+  {
+    "orig_id": 56,
+    "topic": "cellular",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Nuôi cấy hạt phấn",
+    "q": "Một cơ thể thực vật có kiểu gen $AaBbddEe$ (các gen PLĐL). Lấy toàn bộ các loại hạt phấn của cây này nuôi cấy trong ống nghiệm tạo mô đơn bội, sau đó gây lưỡng bội hóa toàn bộ bằng Colchicine. Có tối đa bao nhiêu dòng thuần chủng khác nhau được tạo ra?",
+    "opts": [
+      "$16$ dòng.",
+      "$8$ dòng.",
+      "$4$ dòng.",
+      "$81$ dòng."
+    ],
+    "ans": 1,
+    "exp": "Cơ thể $AaBbddEe$ dị hợp 3 cặp gen tạo $2^3 = 8$ loại hạt phấn $\\Rightarrow$ Lưỡng bội hóa tạo tối đa $8$ dòng thuần chủng."
+  },
+  {
+    "orig_id": 57,
+    "topic": "cellular",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Hàm lượng DNA",
+    "q": "Hàm lượng DNA nhân trong một tế bào sinh tinh của một loài động vật ở pha $G_1$ là $6\\text{ pg}$. Hàm lượng DNA nhân của một tế bào ở kỳ giữa Giảm phân I, kỳ giữa Giảm phân II và trong một tinh trùng của loài này lần lượt là:",
+    "opts": [
+      "$12\\text{ pg}$ ; $6\\text{ pg}$ ; $3\\text{ pg}$.",
+      "$6\\text{ pg}$ ; $6\\text{ pg}$ ; $3\\text{ pg}$.",
+      "$12\\text{ pg}$ ; $12\\text{ pg}$ ; $6\\text{ pg}$.",
+      "$6\\text{ pg}$ ; $3\\text{ pg}$ ; $1.5\\text{ pg}$."
+    ],
+    "ans": 0,
+    "exp": "Pha $G_1$ ($6\\text{ pg}$) $\\rightarrow$ Kỳ giữa GP I ($12\\text{ pg}$) $\\rightarrow$ Kỳ giữa GP II ($6\\text{ pg}$) $\\rightarrow$ Tinh trùng ($3\\text{ pg}$)."
+  },
+  {
+    "orig_id": 58,
+    "topic": "cellular",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Lặp đoạn Bar ở ruồi giấm",
+    "q": "Ở ruồi giấm, đột biến lặp đoạn 16A trên NST giới tính X làm mắt lồi bình thường trở thành mắt dẹt (Bar). Nếu đoạn 16A lặp lại 3 lần trên một NST X (do trao đổi chéo không cân), mắt ruồi càng dẹt hơn nữa. Hiện tượng biểu hiện kiểu hình phụ thuộc vào vị trí sắp xếp của các đoạn lặp trên NST này minh họa cho:",
+    "opts": [
+      "Đột biến lệch bội.",
+      "Hiệu quả vị trí (Position effect) của đột biến cấu trúc NST.",
+      "Di truyền tế bào chất.",
+      "Đột biến đa bội lẻ."
+    ],
+    "ans": 1,
+    "exp": "Số lượng và vị trí sắp xếp các đoạn lặp 16A trên cùng 1 NST X hay chia đều trên 2 NST X làm thay đổi mức độ biểu hiện mắt dẹt — gọi là hiệu quả vị trí (Position effect)."
+  },
+  {
+    "orig_id": 59,
+    "topic": "cellular",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Đa bội $4n$",
+    "q": "Thực hiện phép lai giữa hai cây tứ bội $P: AAaa \\times Aaaa$. Biết cây tứ bội giảm phân chỉ tạo giao tử $2n$ hữu thụ và $A$ trội hoàn toàn so với $a$. Tỉ lệ kiểu hình ở đời con $F_1$ là:",
+    "opts": [
+      "$11$ trội : $1$ lặn.",
+      "$35$ trội : $1$ lặn.",
+      "$5$ trội : $1$ lặn.",
+      "$3$ trội : $1$ lặn."
+    ],
+    "ans": 0,
+    "exp": "$AAaa$ cho $\\frac{1}{6}aa$; $Aaaa$ cho $\\frac{1}{2}aa \\Rightarrow aaaa = \\frac{1}{12} \\Rightarrow 11$ trội : $1$ lặn."
+  },
+  {
+    "orig_id": 60,
+    "topic": "cellular",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Rối loạn phân bào - Đề HSG Tỉnh",
+    "q": "Cho phép lai $P$: ♂ $Aa \\times$ ♀ $Aa$. Trong giảm phân ở cơ thể bố, có $10\\%$ số tế bào sinh tinh không phân ly cặp $Aa$ ở Giảm phân II, cơ thể mẹ giảm phân bình thường. Tỉ lệ hợp tử lệch bội có kiểu gen $aaa$ ở đời con là:",
+    "opts": [
+      "$2.5\\%$.",
+      "$1.25\\%$.",
+      "$5\\%$.",
+      "$0.625\\%$."
+    ],
+    "ans": 1,
+    "exp": "$10\\%$ tế bào sinh tinh rối loạn GP II tạo ra $2.5\\%$ tinh trùng $aa$. Kết hợp với trứng $a = 50\\%$ của mẹ $\\Rightarrow aaa = 2.5\\% \\times 0.5 = 1.25\\%$."
+  },
+  {
+    "orig_id": 61,
+    "topic": "cellular",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Đảo đoạn ngoài tâm động - Đề HSG Tỉnh",
+    "q": "Ở một cá thể dị hợp tử về đột biến đảo đoạn ngoài tâm động (Paracentric inversion), nếu xảy ra trao đổi chéo đơn bên trong vòng đảo đoạn ở kỳ đầu Giảm phân I thì sản phẩm tạo thành ở kỳ sau Giảm phân I sẽ như thế nào?",
+    "opts": [
+      "Tạo ra 4 nhiễm sắc tử hoàn toàn bình thường.",
+      "Tạo ra 1 nhiễm sắc tử có 2 tâm động (tạo cầu nhiễm sắc bị đứt gãy) và 1 nhiễm sắc tử không có tâm động (bị tiêu biến), làm các giao tử tái tổ hợp bị chết.",
+      "Tạo ra các nhiễm sắc tử đều có 1 tâm động nhưng mang đột biến chuyển đoạn.",
+      "Các nhiễm sắc thể không thể tiếp hợp ở kỳ đầu I."
+    ],
+    "ans": 1,
+    "exp": "Trao đổi chéo trong vòng đảo đoạn ngoài tâm động tạo ra 1 chromatid có 2 tâm động (dicentric bridge) và 1 mảnh không tâm động (acentric fragment), dẫn đến các giao tử tái tổ hợp bị chết."
+  },
+  {
+    "orig_id": 62,
+    "topic": "cellular",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Chuyển đoạn tương hỗ - Đề HSG Tỉnh",
+    "q": "Một cá thể dị hợp tử về chuyển đoạn tương hỗ giữa NST số 1 và NST số 2. Trong Giảm phân I, 4 NST (1 bình thường, $1^\\prime$ chuyển đoạn, 2 bình thường, $2^\\prime$ chuyển đoạn) tiếp hợp tạo cấu trúc hình chữ thập. Kiểu phân ly nào giúp tạo ra các giao tử cân bằng di truyền (hữu thụ)?",
+    "opts": [
+      "Phân ly liền kề kiểu 1 (Adjacent-1).",
+      "Phân ly liền kề kiểu 2 (Adjacent-2).",
+      "Phân ly xen kẽ (Alternate segregation: NST 1 và 2 cùng về 1 cực; NST $1^\\prime$ và $2^\\prime$ cùng về cực kia).",
+      "Không có kiểu phân ly nào tạo giao tử hữu thụ."
+    ],
+    "ans": 2,
+    "exp": "Chỉ có kiểu phân ly xen kẽ (Alternate: 2 NST bình thường $1+2$ về một cực, 2 NST chuyển đoạn $1^\\prime+2^\\prime$ về cực kia) mới giữ đủ toàn bộ vật chất di truyền trong giao tử."
+  },
+  {
+    "orig_id": 63,
+    "topic": "cellular",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Chu kỳ tế bào & Ung thư - Đề HSG Tỉnh",
+    "q": "Khi so sánh bản chất di truyền giữa Gen tiền ung thư (Proto-oncogene, ví dụ <i>Ras</i>) và Gen ức chế khối u (Tumor suppressor gene, ví dụ <i>p53</i> hoặc <i>Rb</i>), nhận định nào sau đây là chính xác?",
+    "opts": [
+      "Cả hai đều gây ung thư khi bị đột biến mất chức năng ở cả 2 alen.",
+      "Đột biến chuyển Proto-oncogene thành Oncogene là đột biến tăng chức năng (trội, chỉ cần 1 alen đột biến); còn đột biến ở Gen ức chế khối u là đột biến mất chức năng (lặn ở cấp tế bào, cần hỏng cả 2 alen).",
+      "Đột biến ở <i>p53</i> là đột biến trội hoàn toàn ở cấp độ tế bào.",
+      "Protein $Rb$ kích thích tế bào vượt qua điểm kiểm soát $G_1/S$."
+    ],
+    "ans": 1,
+    "exp": "Oncogene là đột biến trội tăng chức năng (chỉ cần 1 alen); Gen ức chế khối u ($p53, Rb$) cần hỏng cả 2 alen mới mất kiểm soát chu kỳ tế bào."
+  },
+  {
+    "orig_id": 64,
+    "topic": "cellular",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Chuyển đoạn Robertson - Đề HSG Tỉnh",
+    "q": "Hội chứng Down gia đình xảy ra do bố hoặc mẹ bình thường nhưng mang đột biến chuyển đoạn Robertson dung hợp tâm giữa NST số 14 và NST số 21 ($2n = 45$). Sau khi trừ đi các hợp tử chết ở giai đoạn phôi (thể một hoặc thể ba NST 14, thể một NST 21), tỉ lệ sinh con mắc hội chứng Down trong số các con sinh ra sống sót của cặp vợ chồng này là:",
+    "opts": [
+      "$\\frac{1}{2}$.",
+      "$\\frac{1}{3}$.",
+      "$\\frac{1}{6}$.",
+      "$\\frac{1}{4}$."
+    ],
+    "ans": 1,
+    "exp": "Trong 6 tổ hợp hợp tử tạo thành có 3 tổ hợp chết phôi, còn lại 3 tổ hợp sống sót gồm: 1 bình thường, 1 mang chuyển đoạn cân bằng, và 1 mắc hội chứng Down chuyển đoạn $\\Rightarrow$ Tỉ lệ lý thuyết là $\\frac{1}{3}$."
+  },
+  {
+    "orig_id": 65,
+    "topic": "cellular",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Bản đồ Mất đoạn - Đề HSG Tỉnh",
+    "q": "Ở ruồi giấm, 4 gen lặn $(a, b, c, d)$ nằm trên cùng 1 NST. Đem lai dòng đồng hợp lặn $(abcd/abcd)$ với 3 dòng mang đột biến mất đoạn (Dòng 1, Dòng 2, Dòng 3) có các alen kiểu dại tương ứng ở NST không mất đoạn. Kết quả kiểu hình đời con thu được:<br>• Lai với Dòng 1: Biểu hiện kiểu hình lặn $a$ và $c$.<br>• Lai với Dòng 2: Biểu hiện kiểu hình lặn $c$ và $d$.<br>• Lai với Dòng 3: Biểu hiện kiểu hình lặn $b$ và $d$.<br>Trật tự đúng của 4 gen trên nhiễm sắc thể là:",
+    "opts": [
+      "$a - b - c - d$.",
+      "$a - c - d - b$.",
+      "$b - a - c - d$.",
+      "$a - d - c - b$."
+    ],
+    "ans": 1,
+    "exp": "Biểu hiện giả trội cho biết các gen nằm trong cùng một đoạn mất liên tục: Dòng 1 mất $(a, c)$; Dòng 2 mất $(c, d) \\Rightarrow c$ nằm giữa $a$ và $d$ ($a - c - d$); Dòng 3 mất $(d, b) \\Rightarrow d$ nằm cạnh $b$. Vậy trật tự đúng là $a - c - d - b$."
+  },
+  {
+    "orig_id": 66,
+    "topic": "cellular",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Số lượng Thể Barr - Đề HSG Tỉnh",
+    "q": "Theo quy tắc bất hoạt nhiễm sắc thể X của Mary Lyon, số lượng thể Barr trong một tế bào sinh dưỡng của người có công thức $N_{\\text{Barr}} = \\text{Số NST X} - 1$. Vậy số lượng thể Barr trong tế bào sinh dưỡng của người mắc hội chứng Turner ($XO$), Klinefelter ($XXY$) và Siêu nữ ($XXX$) lần lượt là:",
+    "opts": [
+      "$0$ ; $1$ ; $2$.",
+      "$1$ ; $2$ ; $3$.",
+      "$0$ ; $0$ ; $1$.",
+      "$1$ ; $1$ ; $2$."
+    ],
+    "ans": 0,
+    "exp": "Áp dụng công thức $\\text{Số NST X} - 1$: Turner ($XO$, có 1 X) $= 0$ thể Barr; Klinefelter ($XXY$, có 2 X) $= 1$ thể Barr; Siêu nữ ($XXX$, có 3 X) $= 2$ thể Barr."
+  },
+  {
+    "orig_id": 67,
+    "topic": "mendel",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Mendel",
+    "q": "Cho phép lai $P: AaBbDd \\times AaBbdd$ (trội hoàn toàn, PLĐL). Tỉ lệ đời con $F_1$ có kiểu hình $(A-B-dd)$ và tỉ lệ kiểu gen $AaBbDd$ lần lượt là:",
+    "opts": [
+      "$\\frac{9}{32}$ và $\\frac{1}{8}$.",
+      "$\\frac{9}{64}$ và $\\frac{1}{8}$.",
+      "$\\frac{9}{32}$ và $\\frac{1}{16}$.",
+      "$\\frac{27}{64}$ và $\\frac{1}{8}$."
+    ],
+    "ans": 0,
+    "exp": "$A-B-dd = \\frac{3}{4} \\times \\frac{3}{4} \\times \\frac{1}{2} = \\frac{9}{32}$. $AaBbDd = \\frac{1}{2} \\times \\frac{1}{2} \\times \\frac{1}{2} = \\frac{1}{8}$."
+  },
+  {
+    "orig_id": 68,
+    "topic": "mendel",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Tương tác gen",
+    "q": "Cho cây hoa đỏ ($AaBb$) tự thụ phấn thu được $F_1$ có tỉ lệ $9$ đỏ : $6$ vàng : $1$ trắng. Nếu lấy cây hoa đỏ $F_1$ có kiểu gen dị hợp 2 cặp đem lai phân tích thì tỉ lệ kiểu hình ở đời con là:",
+    "opts": [
+      "$1$ đỏ : $2$ vàng : $1$ trắng.",
+      "$1$ đỏ : $3$ trắng.",
+      "$3$ đỏ : $1$ trắng.",
+      "$1$ đỏ : $1$ vàng : $2$ trắng."
+    ],
+    "ans": 0,
+    "exp": "$AaBb \\times aabb \\rightarrow 1 AaBb$ (đỏ) : $1 Aabb + 1 aaBb$ (2 vàng) : $1 aabb$ (trắng)."
+  },
+  {
+    "orig_id": 69,
+    "topic": "mendel",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Liên kết giới tính",
+    "q": "Ở ruồi giấm, alen $A$ quy định mắt đỏ trội hoàn toàn so với $a$ quy định mắt trắng nằm trên vùng không tương đồng của NST X. Phép lai nào sau đây cho đời con $F_1$ có 100% ruồi cái mắt đỏ và 100% ruồi đực mắt trắng?",
+    "opts": [
+      "♀ $X^A X^a \\times$ ♂ $X^A Y$.",
+      "♀ $X^a X^a \\times$ ♂ $X^A Y$.",
+      "♀ $X^A X^A \\times$ ♂ $X^a Y$.",
+      "♀ $X^A X^a \\times$ ♂ $X^a Y$."
+    ],
+    "ans": 1,
+    "exp": "Di truyền chéo: Mẹ mắt trắng ($X^a X^a$) $\\times$ Bố mắt đỏ ($X^A Y$) $\\rightarrow F_1$: 100% cái $X^A X^a$ (đỏ) và 100% đực $X^a Y$ (trắng)."
+  },
+  {
+    "orig_id": 70,
+    "topic": "mendel",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Liên kết hoàn toàn",
+    "q": "Cho phép lai $P: \\frac{AB}{ab} \\times \\frac{Ab}{aB}$. Biết các gen liên kết hoàn toàn ở cả 2 giới và trội hoàn toàn. Tỉ lệ kiểu hình ở đời con $F_1$ là:",
+    "opts": [
+      "$3 : 1$.",
+      "$1 : 2 : 1$.",
+      "$9 : 3 : 3 : 1$.",
+      "$1 : 1 : 1 : 1$."
+    ],
+    "ans": 1,
+    "exp": "$\\frac{AB}{ab}$ cho $(\\frac{1}{2}\\underline{AB} : \\frac{1}{2}\\underline{ab})$; $\\frac{Ab}{aB}$ cho $(\\frac{1}{2}\\underline{Ab} : \\frac{1}{2}\\underline{aB}) \\rightarrow F_1$: $1 : 2 : 1$."
+  },
+  {
+    "orig_id": 71,
+    "topic": "mendel",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Di truyền ngoài nhân",
+    "q": "Khi lai thuận và lai nghịch ở cây hoa phấn (<i>Mirabilis jalapa</i>), lấy hạt phấn của cây lá trắng thụ phấn cho hoa của cây lá xanh thuần chủng thì đời con $F_1$ có kiểu hình là:",
+    "opts": [
+      "100% cây lá trắng.",
+      "100% cây lá xanh.",
+      "3 cây lá xanh : 1 cây lá trắng.",
+      "100% cây lá đốm."
+    ],
+    "ans": 1,
+    "exp": "Tính trạng màu lá ở cây hoa phấn do gen trong lục lạp quy định (di truyền theo dòng mẹ). Mẹ lá xanh nên 100% con $F_1$ lá xanh."
+  },
+  {
+    "orig_id": 72,
+    "topic": "mendel",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Số phép lai",
+    "q": "Một loài thực vật có 2 cặp gen $(Aa, Bb)$ phân ly độc lập. Nếu không phân biệt vai trò của cơ thể đực và cơ thể cái (lai thuận = lai nghịch), trong quần thể có tối đa bao nhiêu kiểu phép lai khác nhau?",
+    "opts": [
+      "$81$ phép lai.",
+      "$45$ phép lai.",
+      "$36$ phép lai.",
+      "$18$ phép lai."
+    ],
+    "ans": 1,
+    "exp": "2 cặp gen PLĐL có $G = 3^2 = 9$ loại kiểu gen. Số phép lai không phân biệt giới tính $= \\frac{G(G+1)}{2} = \\frac{9 \\times 10}{2} = 45$ phép lai."
+  },
+  {
+    "orig_id": 73,
+    "topic": "mendel",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Trội không hoàn toàn",
+    "q": "Ở cây hoa phấn, alen $A$ quy định hoa đỏ trội không hoàn toàn so với alen $a$ quy định hoa trắng, kiểu gen dị hợp $Aa$ cho hoa màu hồng. Phép lai giữa hai cây hoa hồng ($Aa \\times Aa$) cho tỉ lệ kiểu hình ở đời con là:",
+    "opts": [
+      "$3$ đỏ : $1$ trắng.",
+      "$1$ đỏ : $2$ hồng : $1$ trắng.",
+      "$100\\%$ hồng.",
+      "$2$ hồng : $1$ trắng."
+    ],
+    "ans": 1,
+    "exp": "Trội không hoàn toàn nên tỉ lệ kiểu hình trùng với tỉ lệ kiểu gen: $1 AA$ (đỏ) : $2 Aa$ (hồng) : $1 aa$ (trắng)."
+  },
+  {
+    "orig_id": 74,
+    "topic": "mendel",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Hoán vị gen",
+    "q": "Ở một loài thực vật, cho cây dị hợp 2 cặp gen tự thụ phấn thu được $F_1$ có kiểu hình lặn về cả 2 tính trạng chiếm $4\\%$. Biết hoán vị gen xảy ra ở cả 2 giới với tần số như nhau. Tổng tỉ lệ các cá thể ở $F_1$ có kiểu gen đồng hợp về cả 2 cặp gen là:",
+    "opts": [
+      "$16\\%$.",
+      "$26\\%$.",
+      "$18\\%$.",
+      "$34\\%$."
+    ],
+    "ans": 1,
+    "exp": "Ta có $\\frac{ab}{ab} = 0.04 \\Rightarrow \\underline{ab} = \\underline{AB} = 0.2$ và $\\underline{Ab} = \\underline{aB} = 0.3$. Tổng tỉ lệ đồng hợp 2 cặp $= 2(0.2)^2 + 2(0.3)^2 = 0.08 + 0.18 = 26\\%$."
+  },
+  {
+    "orig_id": 75,
+    "topic": "mendel",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Tương tác + HVG",
+    "q": "Cho phép lai $P: \\frac{AB}{ab}Dd \\times \\frac{Ab}{aB}dd$, biết hoán vị gen xảy ra ở cả 2 giới với tần số $f = 20\\%$. Tỉ lệ kiểu hình mang cả 3 tính trạng trội ($A-B-D-$) ở đời con $F_1$ là:",
+    "opts": [
+      "$27\\%$.",
+      "$54\\%$.",
+      "$25.5\\%$.",
+      "$30\\%$."
+    ],
+    "ans": 0,
+    "exp": "$\\%aabb = 0.4 \\times 0.1 = 4\\% \\Rightarrow \\%A-B- = 50\\% + 4\\% = 54\\%$. Nhân với $D- = 0.5 \\Rightarrow \\%A-B-D- = 27\\%$."
+  },
+  {
+    "orig_id": 76,
+    "topic": "mendel",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Tương tác Cộng gộp",
+    "q": "Chiều cao cây do 3 cặp gen $(Aa, Bb, Dd)$ PLĐL tác động cộng gộp theo kiểu mỗi alen trội làm cây cao thêm $5\\text{ cm}$. Cây đồng hợp lặn toàn bộ ($aabbdd$) cao $100\\text{ cm}$. Cho cây dị hợp 3 cặp gen ($AaBbDd$) tự thụ phấn, tỉ lệ cây ở đời con $F_1$ có chiều cao $115\\text{ cm}$ là:",
+    "opts": [
+      "$\\frac{15}{64}$.",
+      "$\\frac{20}{64}$ ($\\frac{5}{16}$).",
+      "$\\frac{6}{64}$.",
+      "$\\frac{1}{64}$."
+    ],
+    "ans": 1,
+    "exp": "Cây cao $115\\text{ cm}$ có $\\frac{115 - 100}{5} = 3$ alen trội. Tỉ lệ cá thể có 3 alen trội là $\\frac{C^3_6}{2^6} = \\frac{20}{64} = \\frac{5}{16}$."
+  },
+  {
+    "orig_id": 77,
+    "topic": "mendel",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Tương tác Át chế",
+    "q": "Cho cây hoa trắng ($AaBb$) tự thụ phấn, đời con $F_1$ thu được tỉ lệ $13$ cây hoa trắng : $3$ cây hoa đỏ. Nếu lấy ngẫu nhiên 1 cây hoa đỏ ở $F_1$ cho tự thụ phấn thì xác suất thu được cây hoa trắng ở đời $F_2$ là:",
+    "opts": [
+      "$\\frac{1}{6}$.",
+      "$\\frac{1}{4}$.",
+      "$\\frac{1}{12}$.",
+      "$\\frac{2}{9}$."
+    ],
+    "ans": 0,
+    "exp": "Trong các cây hoa đỏ ở $F_1$ ($1 aaBB : 2 aaBb$), cây $aaBb$ chiếm $\\frac{2}{3}$. Khi tự thụ phấn, $aaBb$ sinh ra $\\frac{1}{4}$ hoa trắng ($aabb$) $\\Rightarrow$ Xác suất $= \\frac{2}{3} \\times \\frac{1}{4} = \\frac{1}{6}$."
+  },
+  {
+    "orig_id": 78,
+    "topic": "mendel",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Tế bào xảy ra HVG",
+    "q": "Trong quá trình giảm phân của một cơ thể có kiểu gen $\\frac{AB}{ab}$, người ta quan sát thấy có $30\\%$ số tế bào sinh giao tử xảy ra trao đổi chéo tại 1 điểm giữa hai gen $A$ và $B$. Tần số hoán vị gen ($f$) và tỉ lệ giao tử $\\underline{AB}$ tạo ra lần lượt là:",
+    "opts": [
+      "$f = 30\\%$ và $\\underline{AB} = 35\\%$.",
+      "$f = 15\\%$ và $\\underline{AB} = 42.5\\%$.",
+      "$f = 15\\%$ và $\\underline{AB} = 15\\%$.",
+      "$f = 30\\%$ và $\\underline{AB} = 15\\%$."
+    ],
+    "ans": 1,
+    "exp": "$f = \\frac{30\\%}{2} = 15\\%$. Giao tử liên kết $\\underline{AB} = \\underline{ab} = 50\\% - \\frac{15\\%}{2} = 42.5\\%$."
+  },
+  {
+    "orig_id": 79,
+    "topic": "mendel",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Phụ thuộc giới tính",
+    "q": "Ở người, gen $B$ nằm trên NST thường quy định tính trạng hói đầu là trội ở nam nhưng lại là lặn ở nữ ($Bb$ bị hói ở nam nhưng không hói ở nữ). Một cặp vợ chồng đều KHÔNG bị hói đầu sinh con, nhưng người chồng có bố bị hói và người vợ có mẹ bị hói. Xác suất họ sinh được một người con trai bị hói đầu là:",
+    "opts": [
+      "$\\frac{1}{4}$.",
+      "$\\frac{1}{8}$.",
+      "$\\frac{1}{2}$.",
+      "$\\frac{3}{8}$."
+    ],
+    "ans": 0,
+    "exp": "Chồng không hói ($bb$) $\\times$ Vợ không hói có mẹ hói ($Bb$) $\\rightarrow F_1$: $\\frac{1}{2}Bb : \\frac{1}{2}bb$. Xác suất sinh con trai ($\\frac{1}{2}$) mang kiểu gen $Bb$ ($\\frac{1}{2}$) $= \\frac{1}{4}$."
+  },
+  {
+    "orig_id": 80,
+    "topic": "mendel",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Gen gây chết",
+    "q": "Ở cá kiếm, alen $A$ quy định vảy sọc trội hoàn toàn so với $a$ quy định vảy trơn, nhưng kiểu gen đồng hợp trội $AA$ gây chết ở giai đoạn phôi; alen $B$ quy định đuôi dài trội hoàn toàn so với $b$ quy định đuôi ngắn (phân ly độc lập và không gây chết). Phép lai giữa hai cá thể cá kiếm vảy sọc, đuôi dài dị hợp ($AaBb \\times AaBb$) sẽ cho tỉ lệ kiểu hình ở các cá thể sống sót đời $F_1$ là:",
+    "opts": [
+      "$9 : 3 : 3 : 1$.",
+      "$6 : 2 : 3 : 1$.",
+      "$4 : 2 : 2 : 1$.",
+      "$3 : 3 : 1 : 1$."
+    ],
+    "ans": 1,
+    "exp": "Cặp $Aa \\times Aa$ có $AA$ chết nên tỉ lệ sống sót là $(2\\text{ sọc} : 1\\text{ trơn})$. Cặp $Bb \\times Bb$ cho $(3\\text{ dài} : 1\\text{ ngắn})$. Tích 2 tính trạng $= (2:1)(3:1) = 6 : 2 : 3 : 1$."
+  },
+  {
+    "orig_id": 81,
+    "topic": "mendel",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Số kiểu gen tối đa - Đề HSG Tỉnh",
+    "q": "Ở một loài động vật ($XX, XY$), xét Lôcut 1 có 3 alen trên NST thường; Lôcut 2 có 2 alen và Lôcut 3 có 3 alen cùng nằm trên vùng tương đồng của $X$ và $Y$. Số loại kiểu gen tối đa trong quần thể là:",
+    "opts": [
+      "$342$ kiểu gen.",
+      "$162$ kiểu gen.",
+      "$216$ kiểu gen.",
+      "$324$ kiểu gen."
+    ],
+    "ans": 0,
+    "exp": "NST thường: $\\frac{3 \\times 4}{2} = 6$. Trên $XY$ ($G = 2 \\times 3 = 6$): Giới $XX$ có $\\frac{6 \\times 7}{2} = 21$, giới $XY$ có $6^2 = 36 \\Rightarrow 6 \\times (21 + 36) = 342$."
+  },
+  {
+    "orig_id": 82,
+    "topic": "mendel",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Thử nghiệm bổ sung Cis-Trans - Đề HSG Tỉnh",
+    "q": "Phân lập 4 dòng nấm men đột biến lặn khuyết dưỡng Adenine ($1, 2, 3, 4$). Kết quả lai: $(1 \\times 3)$ và $(2 \\times 4)$ mọc bình thường (+); $(1 \\times 4)$ và $(2 \\times 3)$ không mọc được (-). Bốn dòng này thuộc bao nhiêu gen khác nhau?",
+    "opts": [
+      "1 gen.",
+      "2 gen (Nhóm I: 1, 4; Nhóm II: 2, 3).",
+      "3 gen.",
+      "4 gen."
+    ],
+    "ans": 1,
+    "exp": "Hai dòng lai với nhau cho (-) thì thuộc cùng 1 gen $\\Rightarrow$ (1, 4) thuộc Gen I và (2, 3) thuộc Gen II."
+  },
+  {
+    "orig_id": 83,
+    "topic": "mendel",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Bản đồ 3 điểm & Nhiễu - Đề HSG Tỉnh",
+    "q": "Ở ruồi giấm, 3 gen liên kết theo thứ tự $A - B - D$ với khoảng cách $d(A-B) = 10\\text{ cM}$ và $d(B-D) = 20\\text{ cM}$. Nếu hệ số trùng hợp $C = 0.6$ (tức độ nhiễu $I = 0.4$), khi lai phân tích ruồi cái $\\frac{AbD}{aBd} \\times \\frac{abd}{abd}$ thì tỉ lệ cá thể có kiểu hình đồng hợp lặn cả 3 tính trạng ($\\frac{abd}{abd}$) ở đời con là:",
+    "opts": [
+      "$4.4\\%$.",
+      "$0.6\\%$.",
+      "$5.0\\%$.",
+      "$9.4\\%$."
+    ],
+    "ans": 0,
+    "exp": "Giao tử $\\underline{abd}$ từ mẹ $\\frac{AbD}{aBd}$ là giao tử TĐC đơn ở vùng I ($A-B$). Ta có $f_{\\text{kép}} = 0.6 \\times 0.1 \\times 0.2 = 1.2\\% \\Rightarrow f_{\\text{đơn I}} = 10\\% - 1.2\\% = 8.8\\% \\Rightarrow \\%\\underline{abd} = \\frac{8.8\\%}{2} = 4.4\\%$."
+  },
+  {
+    "orig_id": 84,
+    "topic": "mendel",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Bản đồ Tâm động Neurospora - Đề HSG Tỉnh",
+    "q": "Ở nấm <i>Neurospora crassa</i>, lai chủng kiểu dại ($arg^+$) với chủng đột biến ($arg^-$). Trong 500 nang bào tử được kiểm tra, có 420 nang có kiểu sắp xếp bào tử dạng $4:4$ (FDS) và 80 nang có kiểu sắp xếp $2:2:2:2$ hoặc $2:4:2$ (SDS). Khoảng cách từ gen $arg$ đến tâm động là:",
+    "opts": [
+      "$16\\text{ cM}$.",
+      "$8\\text{ cM}$.",
+      "$84\\text{ cM}$.",
+      "$4\\text{ cM}$."
+    ],
+    "ans": 1,
+    "exp": "$d(\\text{Gen} - \\text{Tâm động}) = \\frac{1}{2} \\times \\frac{80}{500} \\times 100 = 8\\text{ cM}$."
+  },
+  {
+    "orig_id": 85,
+    "topic": "mendel",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Con đường Hóa sinh & Tương tác - Đề HSG Tỉnh",
+    "q": "Chuỗi tổng hợp sắc tố hoa: Chất tiền thân (trắng) $\\xrightarrow{\\text{Enzyme A}}$ Sắc tố vàng $\\xrightarrow{\\text{Enzyme B}}$ Sắc tố đỏ. Alen trội $D$ (PLĐL với $A, B$) ức chế hoàn toàn hoạt tính của Enzyme B (alen $d$ không ức chế). Cho cây $AaBbDd$ tự thụ phấn, tỉ lệ kiểu hình (Trắng : Vàng : Đỏ) ở $F_1$ là:",
+    "opts": [
+      "$16$ Trắng : $39$ Vàng : $9$ Đỏ.",
+      "$16$ Trắng : $21$ Vàng : $27$ Đỏ.",
+      "$28$ Trắng : $27$ Vàng : $9$ Đỏ.",
+      "$12$ Trắng : $3$ Vàng : $1$ Đỏ."
+    ],
+    "ans": 0,
+    "exp": "Trắng ($aa-- --$) $= \\frac{16}{64}$; Đỏ ($A-B-dd$) $= \\frac{3}{4} \\times \\frac{3}{4} \\times \\frac{1}{4} = \\frac{9}{64}$; Vàng $= 1 - \\frac{25}{64} = \\frac{39}{64}$."
+  },
+  {
+    "orig_id": 86,
+    "topic": "mendel",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Hiệu ứng Dòng mẹ - Đề HSG Tỉnh",
+    "q": "Ở ốc <i>Limnaea peregra</i>, alen $D$ (xoắn phải) trội hoàn toàn so với $d$ (xoắn trái) và di truyền theo hiệu ứng dòng mẹ. Lấy một con ốc có kiểu gen $dd$ (nhưng vỏ xoắn phải do mẹ nó là $Dd$) cho tự thụ tinh thì đời con $F_1$ và đời cháu $F_2$ có kiểu hình như thế nào?",
+    "opts": [
+      "$F_1$: 100% xoắn phải; $F_2$: 100% xoắn trái.",
+      "$F_1$: 100% xoắn trái; $F_2$: 100% xoắn trái.",
+      "$F_1$: 3 xoắn phải : 1 xoắn trái; $F_2$: 100% xoắn trái.",
+      "$F_1$: 100% xoắn phải; $F_2$: 3 xoắn phải : 1 xoắn trái."
+    ],
+    "ans": 1,
+    "exp": "Mẹ đem tự thụ có kiểu gen $dd$ nên cả $F_1$ và $F_2$ đều biểu hiện 100% xoắn trái theo kiểu gen của mẹ."
+  },
+  {
+    "orig_id": 87,
+    "topic": "mendel",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Kiểm định Chi-square ($\\chi^2$) trong Di truyền - Đề HSG Tỉnh",
+    "q": "Khi lai phân tích một cơ thể dị hợp 2 cặp gen $(Aa, Bb)$, một học sinh giả thuyết rằng 2 cặp gen này phân ly độc lập (tỉ lệ kỳ vọng $1:1:1:1$) và thu được kết quả thực nghiệm trên $400$ cá thể đời con gồm: $120$ cá thể kiểu hình 1 : $120$ cá thể kiểu hình 2 : $80$ cá thể kiểu hình 3 : $80$ cá thể kiểu hình 4. Giá trị $\\chi^2 = \\sum \\frac{(O - E)^2}{E}$ của phép thử này là bao nhiêu (cho biết ngưỡng $\\chi^2_{0.05; df=3} = 7.815$)?",
+    "opts": [
+      "$\\chi^2 = 16 > 7.815 \\Rightarrow$ Bác bỏ giả thuyết phân ly độc lập (2 gen có liên kết).",
+      "$\\chi^2 = 4 < 7.815 \\Rightarrow$ Chấp nhận giả thuyết phân ly độc lập.",
+      "$\\chi^2 = 8 > 7.815 \\Rightarrow$ Bác bỏ giả thuyết.",
+      "$\\chi^2 = 1.6 < 7.815 \\Rightarrow$ Chấp nhận giả thuyết."
+    ],
+    "ans": 0,
+    "exp": "Số cá thể kỳ vọng ở mỗi lớp là $E = \\frac{400}{4} = 100$. Ta có $\\chi^2 = \\frac{(120-100)^2}{100} + \\frac{(120-100)^2}{100} + \\frac{(80-100)^2}{100} + \\frac{(80-100)^2}{100} = 4 + 4 + 4 + 4 = 16 > 7.815 \\Rightarrow$ Bác bỏ giả thuyết PLĐL."
+  },
+  {
+    "orig_id": 88,
+    "topic": "mendel",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Độ thấm (Penetrance) của Gen - Đề HSG Tỉnh",
+    "q": "Ở người, một bệnh di truyền do alen trội $A$ trên NST thường quy định, nhưng alen này có độ thấm (penetrance) chỉ đạt $80\\%$ (tức là trong số những người mang kiểu gen $AA$ hoặc $Aa$, chỉ có $80\\%$ biểu hiện thành kiểu hình bệnh, còn $20\\%$ vẫn có kiểu hình bình thường). Một người đàn ông có kiểu gen dị hợp $Aa$ kết hôn với người phụ nữ bình thường $aa$. Xác suất để đứa con đầu lòng của họ biểu hiện kiểu hình mắc bệnh là:",
+    "opts": [
+      "$50\\%$.",
+      "$40\\%$.",
+      "$80\\%$.",
+      "$20\\%$."
+    ],
+    "ans": 1,
+    "exp": "Phép lai $Aa \\times aa$ tạo ra xác suất con mang kiểu gen $Aa$ là $50\\% = 0.5$. Vì độ thấm của kiểu gen $Aa$ là $80\\% = 0.8$, nên xác suất đứa con biểu hiện kiểu hình bệnh là $0.5 \\times 0.8 = 0.40 = 40\\%$."
+  },
+  {
+    "orig_id": 89,
+    "topic": "population",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Quần thể",
+    "q": "Quần thể nào sau đây đang ở trạng thái cân bằng di truyền Hardy - Weinberg?",
+    "opts": [
+      "$0.36 AA : 0.48 Aa : 0.16 aa$.",
+      "$0.49 AA : 0.40 Aa : 0.11 aa$.",
+      "$0.25 AA : 0.60 Aa : 0.15 aa$.",
+      "$0.70 AA : 0.20 Aa : 0.10 aa$."
+    ],
+    "ans": 0,
+    "exp": "$0.36 \\times 0.16 = (0.48/2)^2 = 0.0576$."
+  },
+  {
+    "orig_id": 90,
+    "topic": "population",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Quần thể Tự phối",
+    "q": "Một quần thể thực vật tự thụ phấn có cấu trúc ban đầu $P: 0.4 AA : 0.4 Aa : 0.2 aa$. Tỉ lệ kiểu gen đồng hợp lặn ($aa$) ở thế hệ $F_2$ là:",
+    "opts": [
+      "$0.35$.",
+      "$0.30$.",
+      "$0.25$.",
+      "$0.55$."
+    ],
+    "ans": 0,
+    "exp": "$Aa_{F2} = 0.4 \\times (1/4) = 0.10 \\Rightarrow aa_{F2} = 0.2 + \\frac{0.4 - 0.10}{2} = 0.35$."
+  },
+  {
+    "orig_id": 91,
+    "topic": "population",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Tần số alen",
+    "q": "Một quần thể cân bằng di truyền có tỉ lệ cá thể mang kiểu hình lặn ($aa$) chiếm $9\\%$. Tỉ lệ cá thể mang kiểu hình trội nhưng có kiểu gen dị hợp ($Aa$) trong quần thể là:",
+    "opts": [
+      "$42\\%$.",
+      "$49\\%$.",
+      "$21\\%$.",
+      "$91\\%$."
+    ],
+    "ans": 0,
+    "exp": "$q^2 = 0.09 \\Rightarrow q = 0.3 ; p = 0.7 \\Rightarrow 2pq(Aa) = 2 \\times 0.7 \\times 0.3 = 0.42 = 42\\%$."
+  },
+  {
+    "orig_id": 92,
+    "topic": "population",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Nhân tố Tiến hóa",
+    "q": "Nhân tố tiến hóa nào sau đây là nhân tố DUY NHẤT có khả năng định hướng quá trình tiến hóa, quy định chiều hướng và nhịp điệu tích lũy các biến dị thích nghi?",
+    "opts": [
+      "Đột biến.",
+      "Chọn lọc tự nhiên.",
+      "Các yếu tố ngẫu nhiên (Phiêu bạt di truyền).",
+      "Giao phối không ngẫu nhiên."
+    ],
+    "ans": 1,
+    "exp": "Chọn lọc tự nhiên là nhân tố tiến hóa có hướng duy nhất."
+  },
+  {
+    "orig_id": 93,
+    "topic": "population",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Bằng chứng Tiến hóa",
+    "q": "Cánh của chim và cánh của côn trùng (bướm), hoặc gai xương rồng (biến dạng của lá) và gai hoa hồng (biến dạng của biểu bì thân) là ví dụ về loại bằng chứng tiến hóa nào?",
+    "opts": [
+      "Cơ quan tương đồng (phản ánh tiến hóa phân ly).",
+      "Cơ quan tương tự (phản ánh tiến hóa đồng quy).",
+      "Cơ quan thoái hóa.",
+      "Bằng chứng phôi sinh học."
+    ],
+    "ans": 1,
+    "exp": "Các cơ quan có nguồn gốc cấu tạo khác nhau nhưng thực hiện chức năng giống nhau do sống trong môi trường tương tự là cơ quan tương tự (tiến hóa đồng quy)."
+  },
+  {
+    "orig_id": 94,
+    "topic": "population",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Phả hệ cơ bản",
+    "q": "Khi phân tích một sơ đồ phả hệ, người ta thấy có một cặp bố mẹ đều KHÔNG mắc bệnh nhưng sinh ra một người con GÁI mắc bệnh. Quy luật di truyền của bệnh này chắc chắn là:",
+    "opts": [
+      "Do gen lặn nằm trên nhiễm sắc thể thường quy định.",
+      "Do gen lặn nằm trên vùng không tương đồng của NST X quy định.",
+      "Do gen trội trên NST thường quy định.",
+      "Do gen trên NST Y quy định."
+    ],
+    "ans": 0,
+    "exp": "Bố mẹ bình thường sinh con bệnh $\\rightarrow$ Bệnh do gen lặn. Vì con gái bị bệnh mà bố bình thường nên gen chắc chắn nằm trên NST thường."
+  },
+  {
+    "orig_id": 95,
+    "topic": "population",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Cách ly Sinh sản",
+    "q": "Ngựa cái giao phối với lừa đực sinh ra con la khỏe mạnh nhưng con la lại bị bất thụ (không có khả năng sinh con). Đây là ví dụ về dạng cách ly sinh sản nào?",
+    "opts": [
+      "Cách ly trước hợp tử (cách ly tập tính).",
+      "Cách ly sau hợp tử (con lai bất thụ).",
+      "Cách ly nơi ở (sinh cảnh).",
+      "Cách ly cơ học."
+    ],
+    "ans": 1,
+    "exp": "Đã thụ tinh tạo được hợp tử và phát triển thành con la, nhưng con la bất thụ $\\Rightarrow$ Cách ly sau hợp tử."
+  },
+  {
+    "orig_id": 96,
+    "topic": "population",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Chọn lọc trong Quần thể",
+    "q": "Một quần thể thực vật giao phấn ngẫu nhiên có cấu trúc ban đầu $P: 0.5 AA : 0.5 Aa$. Biết hợp tử $aa$ chết ở giai đoạn phôi. Tỉ lệ cá thể mang kiểu gen dị hợp $Aa$ ở thế hệ $F_2$ (khi trưởng thành) là:",
+    "opts": [
+      "$\\frac{2}{7}$.",
+      "$\\frac{2}{5}$.",
+      "$\\frac{1}{3}$.",
+      "$\\frac{4}{9}$."
+    ],
+    "ans": 2,
+    "exp": "$q_0 = 1/4 \\rightarrow$ Giao tử của $F_1$ có $q_1 = \\frac{1/4}{1 + 1/4} = \\frac{1}{5}; p_1 = \\frac{4}{5}$. Hợp tử $F_2$: $\\frac{16}{25}AA : \\frac{8}{25}Aa : \\frac{1}{25}aa$ (chết) $\\Rightarrow Aa$ trưởng thành $= \\frac{8}{24} = \\frac{1}{3}$."
+  },
+  {
+    "orig_id": 97,
+    "topic": "population",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Phả hệ + Quần thể",
+    "q": "Bệnh PKU do alen lặn $a$ trên NST thường quy định. Trong một quần thể cân bằng có $1\\%$ người mắc bệnh. Một phụ nữ bình thường (có anh trai bị bệnh, bố mẹ bình thường) kết hôn với một người đàn ông bình thường thuộc quần thể này. Xác suất họ sinh con đầu lòng bị bệnh là:",
+    "opts": [
+      "$\\frac{1}{33}$.",
+      "$\\frac{1}{22}$.",
+      "$\\frac{1}{66}$.",
+      "$\\frac{1}{44}$."
+    ],
+    "ans": 0,
+    "exp": "Vợ cho giao tử $a = \\frac{1}{3}$; Chồng thuộc quần thể ($q = 0.1$) cho giao tử $a = \\frac{q}{1+q} = \\frac{1}{11} \\Rightarrow aa = \\frac{1}{33}$."
+  },
+  {
+    "orig_id": 98,
+    "topic": "population",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Quần thể Đa alen",
+    "q": "Ở một loài động vật, tính trạng màu lông do 1 gen có 3 alen trên NST thường quy định: $A_1$ (đen) $> A_2$ (xám) $> A_3$ (trắng). Trong một quần thể cân bằng có $4\\%$ cá thể lông trắng và $32\\%$ cá thể lông xám. Tỉ lệ cá thể lông đen thuần chủng ($A_1 A_1$) trong quần thể là:",
+    "opts": [
+      "$16\\%$.",
+      "$36\\%$.",
+      "$64\\%$.",
+      "$25\\%$."
+    ],
+    "ans": 0,
+    "exp": "$r(A_3) = \\sqrt{0.04} = 0.2$; $(q+r)^2 = 0.36 \\Rightarrow q(A_2) = 0.4 \\Rightarrow p(A_1) = 0.4 \\Rightarrow A_1 A_1 = p^2 = 16\\%$."
+  },
+  {
+    "orig_id": 99,
+    "topic": "population",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Quần thể Gen trên NST X",
+    "q": "Ở người, bệnh mù màu do gen lặn $m$ trên vùng không tương đồng của NST X quy định. Trong một quần thể cân bằng, tỉ lệ nam giới bị mù màu là $8\\%$. Tỉ lệ nữ giới trong số các nữ giới của quần thể có thị giác bình thường nhưng mang alen gây bệnh ($X^M X^m$) là:",
+    "opts": [
+      "$14.72\\%$.",
+      "$7.36\\%$.",
+      "$0.64\\%$.",
+      "$16\\%$."
+    ],
+    "ans": 0,
+    "exp": "$q(X^m) = 0.08 \\Rightarrow p(X^M) = 0.92 \\Rightarrow$ Ở nữ giới, $X^M X^m = 2pq = 2 \\times 0.92 \\times 0.08 = 14.72\\%$."
+  },
+  {
+    "orig_id": 100,
+    "topic": "population",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Giao phối có chọn lọc",
+    "q": "Quần thể $P$ có cấu trúc $0.4 AA : 0.4 Aa : 0.2 aa$. Nếu các cá thể chỉ giao phấn ngẫu nhiên trong phạm vi những cá thể có CÙNG KIỂU HÌNH (Trội $\\times$ Trội, Lặn $\\times$ Lặn) thì tỉ lệ kiểu gen đồng hợp lặn ($aa$) ở thế hệ $F_1$ là:",
+    "opts": [
+      "$0.2025$.",
+      "$0.25$.",
+      "$0.22$.",
+      "$0.30$."
+    ],
+    "ans": 1,
+    "exp": "Nhóm lặn ($0.2 aa$) tạo $0.2 aa$. Nhóm trội ($0.8$, gồm $\\frac{1}{2}AA : \\frac{1}{2}Aa$, cho giao tử $a = \\frac{1}{4}$) tạo $0.8 \\times (\\frac{1}{4})^2 = 0.05 aa \\Rightarrow$ Tổng $aa = 0.25$."
+  },
+  {
+    "orig_id": 101,
+    "topic": "population",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Phả hệ Sinh 2 con",
+    "q": "Một cặp vợ chồng đều có kiểu gen dị hợp $Aa$ về bệnh bạch tạng. Họ dự định sinh 2 người con. Xác suất để trong 2 người con sinh ra có ĐÚNG 1 người con trai bình thường và 1 người con gái bị bệnh là:",
+    "opts": [
+      "$\\frac{3}{64}$.",
+      "$\\frac{3}{32}$.",
+      "$\\frac{9}{64}$.",
+      "$\\frac{3}{16}$."
+    ],
+    "ans": 1,
+    "exp": "XS $= C^1_2 \\times (\\frac{1}{2} \\times \\frac{3}{4}) \\times (\\frac{1}{2} \\times \\frac{1}{4}) = 2 \\times \\frac{3}{8} \\times \\frac{1}{8} = \\frac{3}{32}$."
+  },
+  {
+    "orig_id": 102,
+    "topic": "population",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Các hình thức Chọn lọc Tự nhiên",
+    "q": "Ở trẻ sơ sinh người, những trẻ có cân nặng trung bình (khoảng $3.0 - 3.5\\text{ kg}$) có tỉ lệ sống sót cao nhất, trong khi trẻ quá nhẹ cân hoặc quá nặng cân đều có tỉ lệ tử vong cao hơn. Đây là ví dụ điển hình của hình thức chọn lọc tự nhiên nào?",
+    "opts": [
+      "Chọn lọc định hướng (Directional selection).",
+      "Chọn lọc ổn định / kiên định (Stabilizing selection).",
+      "Chọn lọc phân hóa / gián đoạn (Disruptive selection).",
+      "Chọn lọc phụ thuộc tần số."
+    ],
+    "ans": 1,
+    "exp": "Chọn lọc giữ lại các cá thể mang tính trạng trung bình và đào thải các cá thể ở hai đầu cực đoan của phổ biến dị là Chọn lọc ổn định (Stabilizing selection)."
+  },
+  {
+    "orig_id": 103,
+    "topic": "population",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Ưu thế dị hợp - Đề HSG Tỉnh",
+    "q": "Trong một quần thể có hiện tượng ưu thế dị hợp tử, hệ số chọn lọc chống lại kiểu gen $AA$ là $s_1 = 0.15$ và chống lại kiểu gen $aa$ là $s_2 = 0.45$ ($w_{Aa} = 1$). Tần số alen lặn $q(a)$ khi quần thể đạt cân bằng là:",
+    "opts": [
+      "$0.25$.",
+      "$0.75$.",
+      "$0.33$.",
+      "$0.15$."
+    ],
+    "ans": 0,
+    "exp": "$\\hat{q} = \\frac{s_1}{s_1 + s_2} = \\frac{0.15}{0.15 + 0.45} = 0.25$."
+  },
+  {
+    "orig_id": 104,
+    "topic": "population",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Gen trên NST X không cân bằng 2 giới - Đề HSG Tỉnh",
+    "q": "Ở thế hệ $P$, tần số alen $A$ (trên vùng không tương đồng của X) ở giới cái ($XX$) là $p_{\\text{cái (0)}} = 0.9$, ở giới đực ($XY$) là $p_{\\text{đực (0)}} = 0.3$. Khi quần thể đạt cân bằng hoàn toàn sau nhiều thế hệ ngẫu phối thì tần số alen $A$ của quần thể và tần số alen $A$ ở giới đực ngay thế hệ $F_1$ lần lượt là:",
+    "opts": [
+      "$\\bar{p} = 0.70$ và $p_{\\text{đực (F1)}} = 0.90$.",
+      "$\\bar{p} = 0.60$ và $p_{\\text{đực (F1)}} = 0.60$.",
+      "$\\bar{p} = 0.70$ và $p_{\\text{đực (F1)}} = 0.60$.",
+      "$\\bar{p} = 0.50$ và $p_{\\text{đực (F1)}} = 0.90$."
+    ],
+    "ans": 0,
+    "exp": "$\\bar{p} = \\frac{2}{3}(0.9) + \\frac{1}{3}(0.3) = 0.70$; Con đực $F_1$ nhận X từ mẹ $P$ nên $p_{\\text{đực (F1)}} = 0.90$."
+  },
+  {
+    "orig_id": 105,
+    "topic": "population",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Hệ số nội phối $F$ - Đề HSG Tỉnh",
+    "q": "Một quần thể có tần số alen $p(A) = 0.7$ và $q(a) = 0.3$. Do có sự giao phối cận huyết một phần với hệ số nội phối $F = 0.25$, tỉ lệ kiểu gen dị hợp $Aa$ và đồng hợp lặn $aa$ thực tế trong quần thể này lần lượt là:",
+    "opts": [
+      "$Aa = 0.315$ và $aa = 0.1425$.",
+      "$Aa = 0.420$ và $aa = 0.090$.",
+      "$Aa = 0.315$ và $aa = 0.090$.",
+      "$Aa = 0.105$ và $aa = 0.1425$."
+    ],
+    "ans": 0,
+    "exp": "$Aa = 2pq(1 - F) = 0.42 \\times 0.75 = 0.315$; $aa = q^2(1 - F) + qF = 0.09 \\times 0.75 + 0.3 \\times 0.25 = 0.1425$."
+  },
+  {
+    "orig_id": 106,
+    "topic": "population",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Di nhập gen - Đề HSG Tỉnh",
+    "q": "Quần thể đảo A ban đầu có tần số alen $q_0(a) = 0.2$. Mỗi thế hệ có $10\\%$ ($m = 0.1$) cá thể của đảo A là do nhập cư từ đất liền B sang (quần thể đất liền B có tần số $q_m(a) = 0.7$). Tần số alen $a$ của quần thể đảo A sau 1 thế hệ nhập cư là:",
+    "opts": [
+      "$0.25$.",
+      "$0.45$.",
+      "$0.27$.",
+      "$0.30$."
+    ],
+    "ans": 0,
+    "exp": "$q_1 = (1 - m)q_0 + m q_m = 0.9 \\times 0.2 + 0.1 \\times 0.7 = 0.25$."
+  },
+  {
+    "orig_id": 107,
+    "topic": "population",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Kích thước quần thể hiệu quả $N_e$ - Đề HSG Tỉnh",
+    "q": "Trong một khu bảo tồn hươu sao, có 20 con đực trưởng thành và 80 con cái trưởng thành tham gia giao phối. Kích thước quần thể hiệu quả ($N_e$) của đàn hươu này là bao nhiêu?",
+    "opts": [
+      "$100$ cá thể.",
+      "$64$ cá thể.",
+      "$50$ cá thể.",
+      "$32$ cá thể."
+    ],
+    "ans": 1,
+    "exp": "$N_e = \\frac{4 N_m N_f}{N_m + N_f} = \\frac{4 \\times 20 \\times 80}{20 + 80} = 64$ cá thể."
+  },
+  {
+    "orig_id": 108,
+    "topic": "population",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Cân bằng Đột biến - Chọn lọc - Đề HSG Tỉnh",
+    "q": "Một bệnh di truyền lặn trên NST thường có hệ số chọn lọc chống lại kiểu gen $aa$ là $s = 0.5$. Biết tốc độ đột biến thuận từ alen bình thường $A$ thành alen bệnh $a$ là $u = 2 \\times 10^{-6}$ mỗi giao tử trong một thế hệ. Khi quần thể đạt trạng thái cân bằng giữa đột biến và chọn lọc, tần số alen gây bệnh $\\hat{q}(a)$ là:",
+    "opts": [
+      "$0.002$ ($2 \\times 10^{-3}$).",
+      "$0.0004$.",
+      "$0.02$.",
+      "$4 \\times 10^{-6}$."
+    ],
+    "ans": 0,
+    "exp": "$\\hat{q} = \\sqrt{\\frac{u}{s}} = \\sqrt{\\frac{2 \\times 10^{-6}}{0.5}} = 2 \\times 10^{-3} = 0.002$."
+  },
+  {
+    "orig_id": 109,
+    "topic": "population",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Phả hệ Anh em ruột - Đề HSG Tỉnh",
+    "q": "Ở người, bệnh bạch tạng do gen lặn $a$ trên NST thường quy định. Một cặp bố mẹ đều bình thường nhưng đã sinh ra một đứa con bị bệnh bạch tạng. Hai người con tiếp theo của họ (1 trai, 1 gái) đều có kiểu hình bình thường. Nếu giả sử hai anh em ruột bình thường này kết hôn cận huyết với nhau (hoặc tính hệ số cận huyết), xác suất sinh con đầu lòng bị bệnh của họ là bao nhiêu?",
+    "opts": [
+      "$\\frac{1}{9}$.",
+      "$\\frac{1}{4}$.",
+      "$\\frac{1}{16}$.",
+      "$\\frac{1}{6}$."
+    ],
+    "ans": 0,
+    "exp": "Bố mẹ là $Aa \\times Aa \\Rightarrow$ Mỗi người con bình thường đều có xác suất kiểu gen là $(\\frac{1}{3}AA : \\frac{2}{3}Aa)$, cho giao tử $a = \\frac{1}{3}$. Do 2 anh em độc lập từ bố mẹ đã biết kiểu gen $Aa \\times Aa$, xác suất cả hai cùng cho giao tử $a$ là $\\frac{1}{3} \\times \\frac{1}{3} = \\frac{1}{9}$."
+  },
+  {
+    "orig_id": 110,
+    "topic": "population",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Quần thể Cân bằng 2 Lôcut Liên kết - Đề HSG Tỉnh",
+    "q": "Trong một quần thể ngẫu phối, xét 2 lôcut $(A/a)$ và $(B/b)$ cùng nằm trên 1 cặp NST thường. Tần số các alen lần lượt là $p(A) = 0.6, q(a) = 0.4$ và $p(B) = 0.7, q(b) = 0.3$. Khi quần thể đạt trạng thái cân bằng liên kết hoàn toàn (Linkage equilibrium, $D = 0$), tần số giao tử $\\underline{AB}$ và tỉ lệ kiểu gen dị hợp kép $\\frac{AB}{ab}$ trong quần thể lần lượt là:",
+    "opts": [
+      "$\\underline{AB} = 0.42$ và $\\frac{AB}{ab} = 0.1008$.",
+      "$\\underline{AB} = 0.42$ và $\\frac{AB}{ab} = 0.0504$.",
+      "$\\underline{AB} = 0.12$ và $\\frac{AB}{ab} = 0.1008$.",
+      "$\\underline{AB} = 0.30$ và $\\frac{AB}{ab} = 0.2400$."
+    ],
+    "ans": 0,
+    "exp": "Khi cân bằng liên kết hoàn toàn, tần số giao tử bằng tích tần số các alen thành phần: $\\underline{AB} = p(A) \\times p(B) = 0.6 \\times 0.7 = 0.42$; $\\underline{ab} = q(a) \\times q(b) = 0.4 \\times 0.3 = 0.12$. Tỉ lệ kiểu gen $\\frac{AB}{ab} = 2 \\times 0.42 \\times 0.12 = 0.1008$."
+  },
+  {
+    "orig_id": 111,
+    "topic": "physiology",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Sinh lý Thực vật",
+    "q": "Để tổng hợp được 1 phân tử Glucose ($C_6H_{12}O_6$) trong pha tối quang hợp, thực vật $C_3$ và thực vật $C_4$ cần tiêu tốn tối thiểu bao nhiêu phân tử ATP?",
+    "opts": [
+      "$C_3$ cần $12\\text{ ATP}$, $C_4$ cần $18\\text{ ATP}$.",
+      "$C_3$ cần $18\\text{ ATP}$, $C_4$ cần $30\\text{ ATP}$.",
+      "$C_3$ cần $18\\text{ ATP}$, $C_4$ cần $24\\text{ ATP}$.",
+      "Cả hai đều cần $18\\text{ ATP}$."
+    ],
+    "ans": 1,
+    "exp": "$C_3$ cần $18\\text{ ATP}$; $C_4$ cần thêm $12\\text{ ATP}$ tái tạo PEP $\\Rightarrow 30\\text{ ATP}$."
+  },
+  {
+    "orig_id": 112,
+    "topic": "physiology",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Sinh lý Động vật",
+    "q": "Khi cơ thể hoạt động cơ bắp mạnh làm $pCO_2$ trong máu tăng cao và pH máu giảm, đường cong phân ly $Hb-O_2$ thay đổi như thế nào (Hiệu ứng Bohr)?",
+    "opts": [
+      "Dịch chuyển sang phải, làm giảm ái lực của Hb với $O_2$ giúp tăng giải phóng $O_2$ cho mô.",
+      "Dịch chuyển sang trái, làm tăng ái lực của Hb với $O_2$.",
+      "Không thay đổi vị trí.",
+      "Làm Hemoglobin biến tính hoàn toàn."
+    ],
+    "ans": 0,
+    "exp": "Hiệu ứng Bohr: $pCO_2$ cao, pH thấp làm đường cong dịch phải, tăng nhường $O_2$ cho mô."
+  },
+  {
+    "orig_id": 113,
+    "topic": "physiology",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Dinh dưỡng Nitơ ở TV",
+    "q": "Thực vật bậc cao chỉ có thể hấp thụ trực tiếp Nitơ từ đất qua rễ dưới hai dạng ion khoáng nào sau đây?",
+    "opts": [
+      "Khí $N_2$ và $NH_3$.",
+      "Ion Ammonium ($NH_4^+$) và ion Nitrate ($NO_3^-$).",
+      "Ion Nitrite ($NO_2^-$) và khí $N_2$.",
+      "Protein và amino acid chưa phân giải."
+    ],
+    "ans": 1,
+    "exp": "Rễ cây chỉ hấp thụ Nitơ khoáng dưới hai dạng là $NH_4^+$ và $NO_3^-$."
+  },
+  {
+    "orig_id": 114,
+    "topic": "physiology",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Hormone Thực vật",
+    "q": "Cặp hormone thực vật nào sau đây có tác dụng đối kháng nhau trong việc điều khiển sự ngủ nghỉ và nảy mầm của hạt (một chất kích thích nảy mầm, một chất ức chế duy trì trạng thái ngủ)?",
+    "opts": [
+      "Auxin và Cytokinin.",
+      "Gibberellin (GA) và Acid Abscisic (ABA).",
+      "Ethylene và Auxin.",
+      "Cytokinin và Ethylene."
+    ],
+    "ans": 1,
+    "exp": "Tỉ lệ $GA / ABA$ quyết định sự nảy mầm của hạt: GA kích thích nảy mầm, ABA duy trì trạng thái ngủ."
+  },
+  {
+    "orig_id": 115,
+    "topic": "physiology",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Hệ dẫn truyền tim",
+    "q": "Cấu trúc nào trong hệ dẫn truyền tự động của tim người đóng vai trò là nhạc trưởng phát nhịp chính với tần số cao nhất ($70 - 80\\text{ xung/phút}$)?",
+    "opts": [
+      "Nút nhĩ thất (AV node).",
+      "Nút xoang nhĩ (SA node - nằm ở thành tâm nhĩ phải).",
+      "Bó His.",
+      "Mạng lưới Purkinje."
+    ],
+    "ans": 1,
+    "exp": "Nút xoang nhĩ (SA) tự phát xung điện với tần số cao nhất nên dẫn nhịp cho toàn bộ quả tim."
+  },
+  {
+    "orig_id": 116,
+    "topic": "physiology",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Quan hệ Sinh thái",
+    "q": "Mối quan hệ giữa vi khuẩn <i>Rhizobium</i> trong nốt sần rễ cây họ Đậu và cây họ Đậu, hoặc giữa nấm và vi khuẩn lam trong Địa y thuộc mối quan hệ sinh thái nào?",
+    "opts": [
+      "Hội sinh.",
+      "Cộng sinh (bắt buộc, cả hai cùng có lợi).",
+      "Hợp tác.",
+      "Ký sinh."
+    ],
+    "ans": 1,
+    "exp": "Đây là mối quan hệ cộng sinh điển hình ($+ / +$ gắn bó chặt chẽ)."
+  },
+  {
+    "orig_id": 117,
+    "topic": "physiology",
+    "level": "basic",
+    "levelText": "🟢 Cơ bản",
+    "subtopic": "Thương số Hô hấp RQ",
+    "q": "Thương số hô hấp ($RQ = \\frac{\\text{Số mol } CO_2 \\text{ thải ra}}{\\text{Số mol } O_2 \\text{ hấp thụ}}$) khi hạt đang nảy mầm phân giải hoàn toàn nguyên liệu Carbohydrate (Glucose) bằng bao nhiêu?",
+    "opts": [
+      "$RQ = 0.7$.",
+      "$RQ = 0.8$.",
+      "$RQ = 1.0$.",
+      "$RQ = 1.3$."
+    ],
+    "ans": 2,
+    "exp": "Phương trình: $C_6H_{12}O_6 + 6O_2 \\rightarrow 6CO_2 + 6H_2O \\Rightarrow RQ = \\frac{6}{6} = 1.0$."
+  },
+  {
+    "orig_id": 118,
+    "topic": "physiology",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Thế nước Tế bào",
+    "q": "Một tế bào thực vật có thế chất tan $\\Psi_s = -0.9\\text{ MPa}$ và áp suất trương $\\Psi_p = +0.4\\text{ MPa}$ được nhúng vào một cốc dung dịch hở có thế nước $\\Psi_w = -0.3\\text{ MPa}$. Chiều di chuyển của nước và áp suất trương của tế bào khi đạt cân bằng là:",
+    "opts": [
+      "Nước đi từ tế bào ra dung dịch; $\\Psi_p = 0\\text{ MPa}$.",
+      "Nước đi từ dung dịch vào tế bào; khi cân bằng $\\Psi_p = +0.6\\text{ MPa}$.",
+      "Nước không di chuyển.",
+      "Tế bào bị co nguyên sinh hoàn toàn."
+    ],
+    "ans": 1,
+    "exp": "$\\Psi_{w(\\text{tb})} = -0.5 < \\Psi_{w(\\text{dd})} = -0.3 \\rightarrow$ Nước đi vào tế bào đến khi $\\Psi_{w(\\text{mới})} = -0.3 \\Rightarrow \\Psi_p = +0.6\\text{ MPa}$."
+  },
+  {
+    "orig_id": 119,
+    "topic": "physiology",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Quang chu kỳ",
+    "q": "Một loài thực vật ngày ngắn (thời gian tối tới hạn 10 giờ) được đặt trong tối 12 giờ, nhưng ở giữa đêm tối bị chiếu chớp sáng theo thứ tự: Đỏ ($R$) $\\rightarrow$ Đỏ xa ($FR$) $\\rightarrow$ Đỏ ($R$). Cây này có ra hoa không?",
+    "opts": [
+      "Có ra hoa.",
+      "Không ra hoa vì chớp sáng cuối cùng là ánh sáng Đỏ ($R, 660\\text{ nm}$) chuyển $P_r \\rightarrow P_{fr}$ phá vỡ đêm dài.",
+      "Có ra hoa vì đã có tia $FR$.",
+      "Ra hoa 50%."
+    ],
+    "ans": 1,
+    "exp": "Tia chiếu cuối cùng quyết định hiệu ứng: Tia $R$ tạo $P_{fr}$ ức chế cây ngày ngắn ra hoa."
+  },
+  {
+    "orig_id": 120,
+    "topic": "physiology",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Hiệu suất Sinh thái",
+    "q": "Trong một hệ sinh thái, SVSX tích lũy được $10^7\\text{ kcal}$. SVTT bậc 1 tích lũy được $10^6\\text{ kcal}$, SVTT bậc 2 tích lũy được $8 \\times 10^4\\text{ kcal}$, SVTT bậc 3 tích lũy được $6.4 \\times 10^3\\text{ kcal}$. Hiệu suất sinh thái giữa bậc dinh dưỡng cấp 3 so với bậc dinh dưỡng cấp 2 là:",
+    "opts": [
+      "$10\\%$.",
+      "$8\\%$.",
+      "$6.4\\%$.",
+      "$12.5\\%$."
+    ],
+    "ans": 1,
+    "exp": "Bậc dinh dưỡng cấp 2 là SVTT bậc 1 ($10^6\\text{ kcal}$); Bậc dinh dưỡng cấp 3 là SVTT bậc 2 ($8 \\times 10^4\\text{ kcal}$). Hiệu suất $= \\frac{8 \\times 10^4}{10^6} \\times 100\\% = 8\\%$."
+  },
+  {
+    "orig_id": 121,
+    "topic": "physiology",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Điều hòa đường huyết",
+    "q": "Sau bữa ăn giàu tinh bột, nồng độ Glucose máu tăng cao sẽ kích thích tế bào nào của đảo tụy tiết hormone gì, và khi nhịn đói lâu ngày thì sao?",
+    "opts": [
+      "Tế bào $\\alpha$ tiết Insulin; khi đói tế bào $\\beta$ tiết Glucagon.",
+      "Tế bào $\\beta$ tiết Insulin (chuyển Glucose thành Glycogen); khi đói tế bào $\\alpha$ tiết Glucagon (phân giải Glycogen thành Glucose).",
+      "Tuyến thượng thận tiết Insulin.",
+      "Gan tiết Insulin và Glucagon."
+    ],
+    "ans": 1,
+    "exp": "Tế bào $\\beta$ đảo tụy tiết Insulin làm hạ đường huyết; tế bào $\\alpha$ đảo tụy tiết Glucagon làm tăng đường huyết."
+  },
+  {
+    "orig_id": 122,
+    "topic": "physiology",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Hệ đệm pH máu",
+    "q": "Khi một người bị hoảng loạn và thở quá nhanh, quá sâu (tăng thông khí phế nang quá mức), nồng độ $CO_2$ trong máu giảm mạnh sẽ dẫn đến rối loạn cân bằng acid - base nào sau đây ($CO_2 + H_2O \\rightleftharpoons H_2CO_3 \\rightleftharpoons H^+ + HCO_3^-$)?",
+    "opts": [
+      "Nhiễm toan hô hấp (pH máu giảm thấp).",
+      "Nhiễm kiềm hô hấp (pH máu tăng cao trên $7.45$ do cân bằng dịch chuyển sang trái làm giảm $[H^+]$).",
+      "Nhiễm toan chuyển hóa.",
+      "pH máu không hề thay đổi."
+    ],
+    "ans": 1,
+    "exp": "Thở nhanh làm thải quá nhiều $CO_2 \\rightarrow$ cân bằng dịch chuyển theo chiều nghịch làm giảm nồng độ $[H^+]$ trong máu $\\rightarrow$ pH máu tăng cao (nhiễm kiềm hô hấp)."
+  },
+  {
+    "orig_id": 123,
+    "topic": "physiology",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Loài chủ chốt - Sinh thái",
+    "q": "Trong thí nghiệm của Robert Paine ở vùng triều Bắc Mỹ, khi loại bỏ loài sao biển săn mồi <i>Pisaster ochraceus</i> ra khỏi quần xã, số lượng loài trong quần xã đã giảm mạnh từ 15 loài xuống còn 8 loài. Loài sao biển <i>Pisaster</i> được gọi là:",
+    "opts": [
+      "Loài ưu thế (Dominant species).",
+      "Loài chủ chốt (Keystone species).",
+      "Loài đặc hữu.",
+      "Loài ngoại lai xâm lấn."
+    ],
+    "ans": 1,
+    "exp": "Loài có sinh khối nhỏ nhưng giữ vai trò kiểm soát cấu trúc lưới thức ăn và duy trì đa dạng quần xã là Loài chủ chốt (Keystone species)."
+  },
+  {
+    "orig_id": 124,
+    "topic": "physiology",
+    "level": "adv",
+    "levelText": "🟡 Nâng cao",
+    "subtopic": "Chu kỳ kinh nguyệt & Thuốc tránh thai",
+    "q": "Tại sao thuốc tránh thai hàng ngày (chứa nồng độ cao Estrogen và Progesterone tổng hợp) lại giúp ngăn cản sự rụng trứng ở phụ nữ?",
+    "opts": [
+      "Vì thuốc trực tiếp tiêu diệt tinh trùng trong tử cung.",
+      "Vì nồng độ Progesterone và Estrogen cao duy trì liên tục gây ức chế ngược âm tính lên Vùng dưới đồi và Tuyến yên, làm giảm tiết GnRH, FSH và ngăn cản đỉnh LH (không có đỉnh LH thì trứng không chín và không rụng).",
+      "Vì thuốc kích thích tuyến yên tiết quá nhiều FSH và LH.",
+      "Vì thuốc làm thể vàng bị thoái hóa ngay lập tức."
+    ],
+    "ans": 1,
+    "exp": "Nồng độ cao Estrogen + Progesterone ức chế ngược âm tính lên vùng dưới đồi - tuyến yên, kìm hãm tiết FSH và LH $\\rightarrow$ không có đỉnh LH giữa chu kỳ nên không xảy ra rụng trứng."
+  },
+  {
+    "orig_id": 125,
+    "topic": "physiology",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Sinh lý Thận - Đề HSG Tỉnh",
+    "q": "Tốc độ lọc cầu thận ($GFR$) là $120\\text{ ml/phút}$, nồng độ chất X trong huyết tương là $0.2\\text{ mg/ml}$, trong nước tiểu là $30\\text{ mg/ml}$ và lưu lượng nước tiểu là $1\\text{ ml/phút}$. Nhận định nào đúng?",
+    "opts": [
+      "Chất X được tái hấp thu một phần.",
+      "Chất X được bài tiết thêm ở ống thận với tốc độ $6\\text{ mg/phút}$.",
+      "Chất X giống Inulin.",
+      "Chất X được tái hấp thu hoàn toàn."
+    ],
+    "ans": 1,
+    "exp": "Lượng lọc $= 120 \\times 0.2 = 24\\text{ mg/phút}$. Lượng thải $= 30 \\times 1 = 30\\text{ mg/phút} \\Rightarrow$ Bài tiết thêm $30 - 24 = 6\\text{ mg/phút}$."
+  },
+  {
+    "orig_id": 126,
+    "topic": "physiology",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Động học Quần thể Sinh thái - Đề HSG Tỉnh",
+    "q": "Quần thể cá tăng trưởng theo mô hình Logistic với $K = 2000$ cá thể và $r = 0.4\\text{ /năm}$. Để thu hoạch sản lượng cá bền vững tối đa hằng năm (MSY), cần duy trì kích thước quần thể ở mức nào và sản lượng khai thác tối đa mỗi năm là bao nhiêu?",
+    "opts": [
+      "$N = 2000$; khai thác $800$/năm.",
+      "$N = 1000$; khai thác $200$/năm.",
+      "$N = 1000$; khai thác $400$/năm.",
+      "$N = 500$; khai thác $200$/năm."
+    ],
+    "ans": 1,
+    "exp": "Duy trì tại $N = K/2 = 1000$; tốc độ tăng trưởng cực đại $\\frac{rK}{4} = \\frac{0.4 \\times 2000}{4} = 200$ cá thể/năm."
+  },
+  {
+    "orig_id": 127,
+    "topic": "physiology",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Độc tố Thần kinh - Đề HSG Tỉnh",
+    "q": "Nếu ngâm sợi trục thần kinh mực ống vào dung dịch có bổ sung chất Tetraethylammonium (TEA - chất phong bế đặc hiệu kênh $K^+$ cổng điện thế), hình dạng đồ thị Điện thế hoạt động khi kích thích sợi trục sẽ biến đổi như thế nào?",
+    "opts": [
+      "Không xuất hiện pha khử cực.",
+      "Pha khử cực diễn ra bình thường nhưng pha tái phân cực bị kéo dài rất lâu và mất giai đoạn quá phân cực (hyperpolarization).",
+      "Biên độ đỉnh điện thế hoạt động giảm đi một nửa.",
+      "Điện thế nghỉ trở nên âm hơn ($-90\\text{ mV}$)."
+    ],
+    "ans": 1,
+    "exp": "Kênh $K^+$ cổng điện thế bị TEA khóa nên $K^+$ không thoát nhanh ra ngoài được $\\rightarrow$ pha tái phân cực kéo dài và mất pha quá phân cực."
+  },
+  {
+    "orig_id": 128,
+    "topic": "physiology",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Nội tiết Tuyến giáp - Đề HSG Tỉnh",
+    "q": "Một bệnh nhân có kết quả xét nghiệm máu: Nồng độ $T_3, T_4$ tự do rất cao, nhưng nồng độ $TSH$ và $TRH$ lại giảm xuống mức cực thấp. Khám lâm sàng thấy bệnh nhân bị bướu cổ to, nhịp tim nhanh, sụt cân và lồi mắt. Nguyên nhân gây bệnh phù hợp nhất là:",
+    "opts": [
+      "Chế độ ăn thiếu Iodine trầm trọng.",
+      "Mắc bệnh Basedow (Graves): Cơ thể sinh kháng thể tự miễn TSI gắn vào thụ thể TSH trên tuyến giáp, kích thích tuyến giáp tiết quá mức $T_3, T_4$ và gây ức chế ngược âm tính lên vùng dưới đồi - tuyến yên.",
+      "Suy thùy trước tuyến yên.",
+      "Khối u ở vùng dưới đồi tiết quá nhiều TRH."
+    ],
+    "ans": 1,
+    "exp": "Kháng thể TSI bắt chước TSH kích thích tuyến giáp liên tục tạo nhiều $T_3/T_4$; lượng $T_3/T_4$ cao ức chế ngược làm giảm $TRH$ và $TSH$."
+  },
+  {
+    "orig_id": 129,
+    "topic": "physiology",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Sinh lý Hô hấp Phổi - Đề HSG Tỉnh",
+    "q": "Một người có tần số hô hấp $f = 15\\text{ nhịp/phút}$, thể tích khí lưu thông mỗi nhịp thở $V_T = 500\\text{ ml}$ và thể tích khoảng chết giải phẫu $V_D = 150\\text{ ml}$. Nếu người này chuyển sang thở nông và nhanh với $f = 30\\text{ nhịp/phút}$ và $V_T = 250\\text{ ml}$, thông khí phế nang thực tế ($V_A$) trong 1 phút sẽ thay đổi như thế nào?",
+    "opts": [
+      "Không đổi (vẫn bằng $7500\\text{ ml/phút}$).",
+      "Giảm mạnh từ $5250\\text{ ml/phút}$ xuống chỉ còn $3000\\text{ ml/phút}$.",
+      "Tăng từ $3000\\text{ ml/phút}$ lên $5250\\text{ ml/phút}$.",
+      "Bằng $0\\text{ ml/phút}$."
+    ],
+    "ans": 1,
+    "exp": "$V_{A1} = 15 \\times (500 - 150) = 5250\\text{ ml/phút}$; $V_{A2} = 30 \\times (250 - 150) = 3000\\text{ ml/phút}$."
+  },
+  {
+    "orig_id": 130,
+    "topic": "physiology",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Hệ RAAS & Vỏ thượng thận - Đề HSG Tỉnh",
+    "q": "Một bệnh nhân bị khối u ở lớp cầu của vỏ tuyến thượng thận dẫn đến tăng tiết quá mức hormone Aldosterone nguyên phát (Hội chứng Conn). Các chỉ số sinh lý máu của bệnh nhân này sẽ thay đổi như thế nào?",
+    "opts": [
+      "Huyết áp tăng cao, $[Na^+]$ máu tăng, $[K^+]$ máu giảm (hạ Kali máu) và nồng độ Renin huyết tương giảm thấp.",
+      "Huyết áp giảm thấp, $[Na^+]$ máu giảm, $[K^+]$ máu tăng cao và Renin tăng cao.",
+      "Đường huyết giảm mạnh và nhiễm toan máu.",
+      "Cả Aldosterone và Renin đều tăng vọt."
+    ],
+    "ans": 0,
+    "exp": "Aldosterone kích thích ống lượn xa và ống góp tái hấp thu $Na^+$ (kéo theo nước $\\rightarrow$ tăng thể tích máu $\\rightarrow$ tăng huyết áp) và bài tiết $K^+$ vào nước tiểu ($\\rightarrow$ hạ $K^+$ máu). Do huyết áp cao nên bộ máy cận cầu thận bị ức chế ngược làm nồng độ Renin giảm thấp."
+  },
+  {
+    "orig_id": 131,
+    "topic": "physiology",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Chỉ số Đa dạng Sinh thái Simpson - Đề HSG Tỉnh",
+    "q": "Khảo sát hai quần xã thực vật (Quần xã I và Quần xã II) đều có 4 loài ($A, B, C, D$) và cùng có tổng số 100 cá thể:<br>• Quần xã I: $25A : 25B : 25C : 25D$.<br>• Quần xã II: $85A : 5B : 5C : 5D$.<br>Tính chỉ số đa dạng Simpson $D = 1 - \\sum p_i^2$ của Quần xã I và Quần xã II:",
+    "opts": [
+      "$D_I = 0.75$ và $D_{II} = 0.27$.",
+      "$D_I = 0.25$ và $D_{II} = 0.73$.",
+      "$D_I = 0.75$ và $D_{II} = 0.75$.",
+      "$D_I = 1.00$ và $D_{II} = 0.50$."
+    ],
+    "ans": 0,
+    "exp": "• Ở Quần xã I: $p_A = p_B = p_C = p_D = 0.25 \\Rightarrow D_I = 1 - 4 \\times (0.25)^2 = 1 - 0.25 = 0.75$.<br>• Ở Quần xã II: $p_A = 0.85, p_B = p_C = p_D = 0.05 \\Rightarrow D_{II} = 1 - [0.85^2 + 3 \\times (0.05)^2] = 1 - (0.7225 + 0.0075) = 1 - 0.73 = 0.27$. Vậy Quần xã I có độ đồng đều và độ đa dạng cao hơn nhiều so với Quần xã II."
+  },
+  {
+    "orig_id": 132,
+    "topic": "physiology",
+    "level": "hsg",
+    "levelText": "🔴 HSG Tỉnh",
+    "subtopic": "Miễn dịch học & HIV - Đề HSG Tỉnh",
+    "q": "Tại sao khi virus HIV tấn công và phá hủy đặc hiệu tế bào Lympho T hỗ trợ ($T_H$ hay $CD4^+$) thì cả đáp ứng miễn dịch tế bào lẫn đáp ứng miễn dịch dịch thể của người bệnh đều bị suy sụp nghiêm trọng?",
+    "opts": [
+      "Vì tế bào $T_H$ là tế bào trực tiếp tiết ra kháng thể IgG và IgM.",
+      "Vì tế bào $T_H$ tiết ra các Cytokine (như Interleukin-2) cần thiết để hoạt hóa cả tế bào Lympho B (sản xuất kháng thể - miễn dịch dịch thể) lẫn tế bào Lympho T độc ($T_C / CD8^+$ - miễn dịch tế bào).",
+      "Vì tế bào $T_H$ là đại thực bào duy nhất trong máu.",
+      "Vì HIV phá hủy toàn bộ hồng cầu và tiểu cầu."
+    ],
+    "ans": 1,
+    "exp": "Tế bào $T_H$ ($CD4^+$) đóng vai trò trung tâm điều phối miễn dịch: tiết Cytokine kích thích tế bào B biệt hóa thành tương bào tạo kháng thể (miễn dịch dịch thể) và kích thích tế bào $T_C$ ($CD8^+$) tiêu diệt tế bào nhiễm (miễn dịch tế bào)."
+  }
+]

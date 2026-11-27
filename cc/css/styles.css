@@ -1,0 +1,241 @@
+:root {
+  --brand-emerald: #047857;
+  --brand-emerald-dark: #065f46;
+  --brand-teal: #0f766e;
+  --surface: #ffffff;
+  --bg-page: #f8fafc;
+  --border-subtle: #e2e8f0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-page);
+  color: #0f172a;
+  font-family: "Be Vietnam Pro", "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+/* Custom scrollbar for exam palette & matrix */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Badges compatible with original theory_data.js */
+.level-badge-basic {
+  background-color: #ecfdf5;
+  color: #065f46;
+  border: 1px solid #a7f3d0;
+}
+.level-badge-adv {
+  background-color: #fffbeb;
+  color: #92400e;
+  border: 1px solid #fde68a;
+}
+.level-badge-hsg {
+  background-color: #fff1f2;
+  color: #9f1239;
+  border: 1px solid #fecdd3;
+}
+
+.formula-box {
+  background-color: #eff6ff;
+  border: 1px solid #bfdbfe;
+  color: #1e3a8a;
+}
+
+.trap-box {
+  background-color: #fff1f2;
+  border: 1px solid #fecdd3;
+  color: #881337;
+}
+
+.content-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 1rem;
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.05);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.content-card:hover {
+  box-shadow: 0 8px 22px -6px rgba(15, 23, 42, 0.08);
+}
+
+/* Tabs */
+.nav-tab {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.65rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  border-radius: 0.75rem;
+  color: #475569;
+  background: transparent;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: all 0.16s ease;
+}
+.nav-tab:hover {
+  color: #065f46;
+  background: #ecfdf5;
+}
+.nav-tab.active {
+  color: #ffffff;
+  background: linear-gradient(135deg, #059669 0%, #0f766e 100%);
+  box-shadow: 0 4px 12px rgba(5, 150, 105, 0.25);
+}
+
+/* MCQ option card */
+.opt-label {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding: 0.75rem 0.95rem;
+  border-radius: 0.75rem;
+  border: 1.5px solid #e2e8f0;
+  background: #ffffff;
+  cursor: pointer;
+  transition: border-color 0.15s ease, background-color 0.15s ease, transform 0.08s ease;
+}
+.opt-label:hover {
+  border-color: #10b981;
+  background: #f0fdf4;
+}
+.opt-label.selected {
+  border-color: #059669;
+  background: #ecfdf5;
+  box-shadow: 0 0 0 2px rgba(16, 185, 129, 0.15);
+}
+.opt-label.correct-ans {
+  border-color: #16a34a !important;
+  background: #f0fdf4 !important;
+}
+.opt-label.wrong-ans {
+  border-color: #e11d48 !important;
+  background: #fff1f2 !important;
+}
+
+/* Question Palette Pills */
+.q-pill {
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: 0.6rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  border: 1.5px solid #cbd5e1;
+  background: #ffffff;
+  color: #334155;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.12s ease;
+}
+.q-pill:hover {
+  border-color: #059669;
+  color: #065f46;
+}
+.q-pill.answered {
+  background: #059669;
+  border-color: #059669;
+  color: #ffffff;
+}
+.q-pill.partial {
+  background: #fef3c7;
+  border-color: #f59e0b;
+  color: #92400e;
+}
+.q-pill.review-ok {
+  background: #16a34a;
+  border-color: #15803d;
+  color: #ffffff;
+}
+.q-pill.review-bad {
+  background: #e11d48;
+  border-color: #be123c;
+  color: #ffffff;
+}
+
+/* TF button toggle */
+.tf-btn {
+  padding: 0.35rem 0.8rem;
+  border-radius: 0.5rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  border: 1.5px solid #cbd5e1;
+  background: #ffffff;
+  color: #475569;
+  cursor: pointer;
+  transition: all 0.12s ease;
+}
+.tf-btn:hover:not(:disabled) {
+  border-color: #0f766e;
+  color: #0f766e;
+}
+.tf-btn.active-true {
+  background: #059669;
+  border-color: #059669;
+  color: #ffffff;
+}
+.tf-btn.active-false {
+  background: #e11d48;
+  border-color: #e11d48;
+  color: #ffffff;
+}
+
+/* MathJax responsive container */
+mjx-container {
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* Timer warning pulse */
+@keyframes pulseAlert {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(225, 29, 72, 0.35); }
+  50% { box-shadow: 0 0 0 8px rgba(225, 29, 72, 0); }
+}
+.timer-danger {
+  background-color: #ffe4e6 !important;
+  color: #be123c !important;
+  border-color: #fda4af !important;
+  animation: pulseAlert 1.5s infinite;
+}
+
+/* Heat cells for overlap matrix */
+.ov-cell-0 {
+  background-color: #ecfdf5;
+  color: #065f46;
+}
+.ov-cell-self {
+  background-color: #e2e8f0;
+  color: #64748b;
+}
+
+@media (max-width: 640px) {
+  .q-pill {
+    width: 2rem;
+    height: 2rem;
+    font-size: 0.75rem;
+  }
+}
